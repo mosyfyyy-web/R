@@ -85,7 +85,8 @@ def ask_llm(prompt):
             continue
         if r.status_code >= 400:
             print(f"模型接口报错 {r.status_code}: " + " ".join(r.text.split())[:400])
-            print(f"当前使用的接口:{LLM_URL},模型:{LLM_MODEL}")
+            key_info = "未设置(空)" if not LLM_KEY else f"长度 {len(LLM_KEY)},以 AIza 开头:{LLM_KEY.startswith('AIza')}"
+            print(f"当前使用的接口:{LLM_URL},模型:{LLM_MODEL},LLM_API_KEY:{key_info}")
             if r.status_code in (401, 403):
                 print("提示:key 与接口必须是同一家的。Gemini 的 key 要配 Gemini 的 LLM_BASE_URL 和 LLM_MODEL")
         r.raise_for_status()
