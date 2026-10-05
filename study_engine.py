@@ -84,7 +84,7 @@ def ask_llm(prompt):
             time.sleep(5 * (attempt + 1))
             continue
         if r.status_code >= 400:
-            print(f"模型接口报错 {r.status_code}: {r.text[:300]}")
+            print(f"模型接口报错 {r.status_code}: " + " ".join(r.text.split())[:400])
             print(f"当前使用的接口:{LLM_URL},模型:{LLM_MODEL}")
             if r.status_code in (401, 403):
                 print("提示:key 与接口必须是同一家的。Gemini 的 key 要配 Gemini 的 LLM_BASE_URL 和 LLM_MODEL")
