@@ -39,6 +39,7 @@ jobs:
           python-version: "3.12"
       - run: pip install requests
       - name: run
+        shell: bash
         run: |
           case "${{ github.event.schedule }}" in
             "0 0 * * *")  SLOT=ielts ;;
@@ -50,7 +51,15 @@ jobs:
           FLAG=""
           if [ "${{ github.event_name }}" = "schedule" ] || [ "${{ inputs.apply }}" = "true" ]; then FLAG="--apply"; fi
           echo "FLAG=$FLAG" >> "$GITHUB_ENV"
-          python study_engine.py --slot "$SLOT" $FLAG
+          # 失败时把最后 12 行输出写成红色注释,打开运行页面就能直接看到原因
+          set +e
+          python study_engine.py --slot "$SLOT" $FLAG > out.txt 2>&1
+          code=$?
+          cat out.txt
+          if [ $code -ne 0 ]; then
+            tail -n 12 out.txt | sed 's/%/%25/g; s/^/::error::/'
+          fi
+          exit $code
       - name: save state
         if: env.FLAG == '--apply'
         run: |
