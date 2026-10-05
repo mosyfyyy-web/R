@@ -51,13 +51,13 @@ jobs:
           FLAG=""
           if [ "${{ github.event_name }}" = "schedule" ] || [ "${{ inputs.apply }}" = "true" ]; then FLAG="--apply"; fi
           echo "FLAG=$FLAG" >> "$GITHUB_ENV"
-          # 失败时把最后 12 行输出写成红色注释,打开运行页面就能直接看到原因
+          # 失败时把关键错误行写成红色注释,打开运行页面就能直接看到原因
           set +e
           python study_engine.py --slot "$SLOT" $FLAG > out.txt 2>&1
           code=$?
           cat out.txt
           if [ $code -ne 0 ]; then
-            tail -n 12 out.txt | sed 's/%/%25/g; s/^/::error::/'
+            { grep -E '模型接口|当前使用|提示|失败|Error|error:' out.txt | head -n 6; tail -n 2 out.txt; } | sed 's/%/%25/g; s/^/::error::/'
           fi
           exit $code
       - name: save state
