@@ -16,9 +16,9 @@ from pathlib import Path
 import requests
 from study_data import BOOKS, ielts_stage
 
-LLM_KEY = os.environ.get("LLM_API_KEY", "")
-LLM_URL = os.environ.get("LLM_BASE_URL") or "https://open.bigmodel.cn/api/paas/v4"
-LLM_MODEL = os.environ.get("LLM_MODEL") or "glm-4-flash"
+LLM_KEY = os.environ.get("LLM_API_KEY", "").strip()
+LLM_URL = (os.environ.get("LLM_BASE_URL") or "https://open.bigmodel.cn/api/paas/v4").strip().rstrip("/")
+LLM_MODEL = (os.environ.get("LLM_MODEL") or "glm-4-flash").strip()
 APPLY = "--apply" in sys.argv
 SLOT = sys.argv[sys.argv.index("--slot") + 1] if "--slot" in sys.argv else "subject"
 TODAY = (dt.date.fromisoformat(os.environ["STUDY_TODAY"])
@@ -85,6 +85,9 @@ def ask_llm(prompt):
             continue
         if r.status_code >= 400:
             print(f"模型接口报错 {r.status_code}: {r.text[:300]}")
+            print(f"当前使用的接口:{LLM_URL},模型:{LLM_MODEL}")
+            if r.status_code in (401, 403):
+                print("提示:key 与接口必须是同一家的。Gemini 的 key 要配 Gemini 的 LLM_BASE_URL 和 LLM_MODEL")
         r.raise_for_status()
         return r.json()["choices"][0]["message"]["content"].strip()
     raise RuntimeError("一直被限速")
