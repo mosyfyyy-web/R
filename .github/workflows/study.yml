@@ -1,0 +1,69 @@
+# 放到仓库的 .github/workflows/study.yml
+# 需要:仓库 Settings → Actions → General → Workflow permissions 选 "Read and write permissions"
+name: study
+on:
+  schedule:
+    - cron: "0 0 * * *"    # 北京时间 08:00 雅思微练习
+    - cron: "0 5 * * *"    # 北京时间 13:00 学科微卡
+    - cron: "0 13 * * *"   # 北京时间 21:00 复习
+    - cron: "0 12 * * 0"   # 每周日北京时间 20:00 每周小结
+  workflow_dispatch:
+    inputs:
+      slot:
+        description: "subject / review / ielts / report"
+        default: "subject"
+      apply:
+        description: "真正执行(不勾选 = 只预览)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: study
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    env:
+      LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+      LLM_BASE_URL: ${{ vars.LLM_BASE_URL || secrets.LLM_BASE_URL || 'https://generativelanguage.googleapis.com/v1beta/openai' }}
+      LLM_MODEL: ${{ vars.LLM_MODEL || secrets.LLM_MODEL || 'gemini-2.5-flash' }}
+      BARK_KEY: ${{ secrets.BARK_KEY }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests
+      - name: run
+        run: |
+          case "${{ github.event.schedule }}" in
+            "0 0 * * *")  SLOT=ielts ;;
+            "0 5 * * *")  SLOT=subject ;;
+            "0 13 * * *") SLOT=review ;;
+            "0 12 * * 0") SLOT=report ;;
+            *)            SLOT="${{ inputs.slot }}" ;;
+          esac
+          FLAG=""
+          if [ "${{ github.event_name }}" = "schedule" ] || [ "${{ inputs.apply }}" = "true" ]; then FLAG="--apply"; fi
+          echo "FLAG=$FLAG" >> "$GITHUB_ENV"
+          python study_engine.py --slot "$SLOT" $FLAG
+      - name: save state
+        if: env.FLAG == '--apply'
+        run: |
+          git config user.name "study-bot"
+          git config user.email "study-bot@users.noreply.github.com"
+          git add state/state.json
+          if ! git diff --cached --quiet; then
+            git commit -m "state $(date -u +%F-%H%M)"
+            git pull --rebase
+            git push
+          fi
+      - name: notify on failure
+        if: failure()
+        run: |
+          curl -s -X POST https://api.day.app/push -H 'Content-Type: application/json' \
+            -d "{\"device_key\":\"$BARK_KEY\",\"title\":\"学习系统出错了\",\"body\":\"打开 GitHub 的 Actions 页面查看日志\",\"group\":\"study\"}"
