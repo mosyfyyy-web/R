@@ -72,7 +72,8 @@ def today_subject(state):
 
 # ---------- 模型与推送 ----------
 def ask_llm(prompt):
-    for attempt in range(4):
+    delays = [10, 30, 60, 90]  # 限速或服务繁忙时的重试等待(秒)
+    for attempt in range(len(delays) + 1):
         r = requests.post(
             f"{LLM_URL}/chat/completions",
             headers={"Authorization": f"Bearer {LLM_KEY}"},
@@ -80,8 +81,9 @@ def ask_llm(prompt):
                   "messages": [{"role": "user", "content": prompt}]},
             timeout=180,
         )
-        if r.status_code == 429:
-            time.sleep(5 * (attempt + 1))
+        if r.status_code in (429, 500, 502, 503, 504) and attempt < len(delays):
+            print(f"模型接口暂时不可用({r.status_code}),{delays[attempt]} 秒后重试")
+            time.sleep(delays[attempt])
             continue
         if r.status_code >= 400:
             print(f"模型接口报错 {r.status_code}: " + " ".join(r.text.split())[:400])
