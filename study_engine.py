@@ -98,11 +98,13 @@ def ask_llm(prompt):
 
 def bark(title, body):
     print(f"\n【{title}】\n{body}\n")
-    if APPLY and os.environ.get("BARK_KEY"):
+    if APPLY:
+        if not os.environ.get("BARK_KEY"):  # 没法推送就中止,避免进度在你看不到的情况下推进
+            sys.exit("BARK_KEY 未设置:无法推送,本次中止")
         requests.post("https://api.day.app/push", json={
             "device_key": os.environ["BARK_KEY"], "title": title,
             "body": body, "group": "study"}, timeout=30).raise_for_status()
-    elif not APPLY:
+    else:
         print("(预览:没有推送)")
 
 
