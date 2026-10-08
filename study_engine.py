@@ -19,6 +19,7 @@ from study_data import BOOKS, ielts_stage
 LLM_KEY = os.environ.get("LLM_API_KEY", "").strip()
 LLM_URL = (os.environ.get("LLM_BASE_URL") or "https://open.bigmodel.cn/api/paas/v4").strip().rstrip("/")
 LLM_MODEL = (os.environ.get("LLM_MODEL") or "glm-4-flash").strip()
+LLM_MODELS = [m.strip() for m in LLM_MODEL.split(",") if m.strip()]  # 逗号分隔,依次尝试
 APPLY = "--apply" in sys.argv
 SLOT = sys.argv[sys.argv.index("--slot") + 1] if "--slot" in sys.argv else "subject"
 TODAY = (dt.date.fromisoformat(os.environ["STUDY_TODAY"])
@@ -71,29 +72,60 @@ def today_subject(state):
 
 
 # ---------- 模型与推送 ----------
-def ask_llm(prompt):
-    delays = [10, 30, 60, 90]  # 限速或服务繁忙时的重试等待(秒)
+def call_model(model, prompt, delays):
+    payload = {"model": model, "temperature": 0.4,
+               "messages": [{"role": "user", "content": prompt}]}
+    if "generativelanguage.googleapis.com" in LLM_URL:
+        payload["reasoning_effort"] = "low"  # Gemini 新模型默认会长时间"思考",调低以免超时
     for attempt in range(len(delays) + 1):
-        r = requests.post(
-            f"{LLM_URL}/chat/completions",
-            headers={"Authorization": f"Bearer {LLM_KEY}"},
-            json={"model": LLM_MODEL, "temperature": 0.4,
-                  "messages": [{"role": "user", "content": prompt}]},
-            timeout=180,
-        )
+        try:
+            r = requests.post(f"{LLM_URL}/chat/completions",
+                              headers={"Authorization": f"Bearer {LLM_KEY}"},
+                              json=payload, timeout=90)
+        except (requests.exceptions.Timeout, requests.exceptions.ConnectionError) as e:
+            if attempt < len(delays):
+                print(f"[{model}] 超时或连接失败({type(e).__name__}),{delays[attempt]} 秒后重试")
+                time.sleep(delays[attempt])
+                continue
+            raise
+        if r.status_code == 400 and "reasoning_effort" in payload and "reasoning" in r.text.lower():
+            payload.pop("reasoning_effort")  # 接口不认这个参数,去掉再试
+            print(f"[{model}] 不支持 reasoning_effort,去掉后重试")
+            continue
         if r.status_code in (429, 500, 502, 503, 504) and attempt < len(delays):
-            print(f"模型接口暂时不可用({r.status_code}),{delays[attempt]} 秒后重试")
+            print(f"[{model}] 暂时不可用({r.status_code}),{delays[attempt]} 秒后重试")
             time.sleep(delays[attempt])
             continue
         if r.status_code >= 400:
-            print(f"模型接口报错 {r.status_code}: " + " ".join(r.text.split())[:400])
-            key_info = "未设置(空)" if not LLM_KEY else f"长度 {len(LLM_KEY)},以 AIza 开头:{LLM_KEY.startswith('AIza')}"
-            print(f"当前使用的接口:{LLM_URL},模型:{LLM_MODEL},LLM_API_KEY:{key_info}")
+            print(f"[{model}] 接口报错 {r.status_code}: " + " ".join(r.text.split())[:300])
             if r.status_code in (401, 403):
-                print("提示:key 与接口必须是同一家的。Gemini 的 key 要配 Gemini 的 LLM_BASE_URL 和 LLM_MODEL")
+                key_info = "未设置(空)" if not LLM_KEY else f"长度 {len(LLM_KEY)}"
+                print(f"接口:{LLM_URL},LLM_API_KEY:{key_info}。key 必须和接口是同一家的")
         r.raise_for_status()
         return r.json()["choices"][0]["message"]["content"].strip()
-    raise RuntimeError("一直被限速")
+
+
+def ask_llm(prompt):
+    """按 LLM_MODELS 的顺序尝试:某个模型不可用(404、繁忙、超时)就换下一个。
+    key 无效(401/403)是配置问题,换模型没用,直接报错。"""
+    last = None
+    for i, model in enumerate(LLM_MODELS):
+        is_last = i == len(LLM_MODELS) - 1
+        delays = [10, 30, 60, 90] if is_last else [10]
+        try:
+            text = call_model(model, prompt, delays)
+            print(f"使用模型:{model}")
+            return text
+        except requests.exceptions.HTTPError as e:
+            code = e.response.status_code if e.response is not None else 0
+            if code in (401, 403):
+                raise
+            print(f"模型 {model} 不可用({code}),换下一个")
+            last = e
+        except (requests.exceptions.Timeout, requests.exceptions.ConnectionError) as e:
+            print(f"模型 {model} 一直超时,换下一个")
+            last = e
+    raise last
 
 
 def bark(title, body):
