@@ -1,7 +1,5 @@
 name: raindrop-feed
 on:
-  schedule:
-    - cron: "30 23 * * *"   # 北京时间每天 07:30
   workflow_dispatch:
 permissions:
   contents: write
