@@ -1,0 +1,29 @@
+[
+ {
+  "time": "2026-10-10 02:45",
+  "source": "NASA",
+  "kind": "新闻",
+  "title": "NASA’s SPHEREx Telescope Sees Menagerie of Brown Dwarfs",
+  "link": "https://www.nasa.gov/missions/spherex/nasas-spherex-telescope-sees-menagerie-of-brown-dwarfs/",
+  "score": 4.0,
+  "summary": "NASA的SPHEREx望远镜观测到了大量褐矮星。这展示了该望远镜的重要观测成果，对研究褐矮星具有重要价值。"
+ },
+ {
+  "time": "2026-10-10 02:45",
+  "source": "Science 新闻",
+  "kind": "新闻",
+  "title": "Problems in 22 scientific fields had solutions hiding in plain sight. An AI has found them",
+  "link": "https://www.science.org/content/article/problems-22-scientific-fields-had-solutions-hiding-plain-sight-ai-has-found-them",
+  "score": 4.0,
+  "summary": "人工智能在一个科学领域中找到了隐藏的解决方案，涉及多个学科的问题解决。这展示了AI在推动科学研究方面的突破性应用。"
+ },
+ {
+  "time": "2026-10-10 02:45",
+  "source": "Nature",
+  "kind": "论文",
+  "title": "Breaking down nerve-cell scaffold relieves chronic pain in mice",
+  "link": "https://www.nature.com/articles/d41586-026-03159-z",
+  "score": 4.0,
+  "summary": "研究发现分解小鼠神经细胞支架可以缓解慢性疼痛。该论文在神经科学和疼痛治疗领域取得了重要突破。"
+ }
+]
