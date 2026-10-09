@@ -1,0 +1,28 @@
+name: raindrop-feed
+on:
+  schedule:
+    - cron: "30 23 * * *"   # 北京时间每天 07:30
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Fetch and add to Raindrop
+        env:
+          RAINDROP_TOKEN: ${{ secrets.RAINDROP_TOKEN }}
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          LLM_MODEL: ${{ vars.LLM_MODEL }}
+        run: python raindrop_feed.py
+      - name: Save seen list
+        run: |
+          git config user.name "bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add state/seen.json || true
+          git diff --cached --quiet || (git commit -m "update seen" && git push)
