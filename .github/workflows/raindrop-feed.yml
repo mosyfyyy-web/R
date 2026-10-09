@@ -18,6 +18,7 @@ jobs:
         env:
           RAINDROP_TOKEN: ${{ secrets.RAINDROP_TOKEN }}
           LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          BARK_KEY: ${{ secrets.BARK_KEY }}
           LLM_MODEL: ${{ vars.LLM_MODEL }}
         run: python raindrop_feed.py
       - name: Save seen list
