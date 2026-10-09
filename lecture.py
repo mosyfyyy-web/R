@@ -1,53 +1,28 @@
-"""每日讲义:按 study_data.BOOKS 的章节顺序,每次生成一章完整讲义,存入 lectures/,
-推送摘要 + 讲义链接到 Bark。天文学与心理学隔天交替。"""
-import re, sys, json, datetime as dt
+"""每日讲义:按 study_data.BOOKS 的章节顺序,每次生成一章,讲稿全文直接推送到 Bark(不存仓库)。
+只在仓库里保存进度数字。天文学与心理学隔天交替。"""
+import sys, json, datetime as dt
 from pathlib import Path
 from study_data import BOOKS
-from llm import ask, push, KEY
+from llm import ask, push_long, KEY
 
-REPO = "mosyfyyy-web/R"
 TODAY = dt.date.today()
 PROG = Path("state/lecture_progress.json")
-OUT = Path("lectures")
 
 REFS = {
-    "天文学": "OpenStax《Astronomy 2e》(免费开放教材) 与 Chaisson & McMillan《Astronomy Today》(Pearson)",
-    "心理学": "OpenStax《Psychology 2e》(免费开放教材) 与 Gerrig & Zimbardo《Psychology and Life》(Pearson)",
+    "天文学": "Chaisson 和 McMillan 的《Astronomy Today》(Pearson)、Carroll 和 Ostlie 的《An Introduction to Modern Astrophysics》",
+    "心理学": "Gerrig 和 Zimbardo 的《Psychology and Life》(Pearson)、Myers 的《Psychology》",
 }
 
-PROMPT = """你是一位大学教授,正在给专业学习者上完整的一次课。请写本次课的讲义。
+PROMPT = """你是一位讲课很好的大学教授,现在对一位学习者做一次当面授课。内容是 OpenStax《{book}》第 {n} 章「{en}」(中文:{zh})。
 
-章节:OpenStax《{book}》第 {n} 章「{en}」(中文:{zh})。
-可参照的教材:{refs}。请指出 Pearson 等其他教材中对应的章节主题(只写主题,不要编造页码)。
-
-要求:
-1. 用中文,用你自己的语言讲解,不要逐字照搬任何教材原文。
-2. 专业水平,讲清推导、机制和数量级,例子要具体。
-3. 严格使用以下 Markdown 结构:
-## 本讲摘要
-(3句话,概括本章最重要的结论)
-## 学习目标
-(3-5条)
-## 讲解
-(分3-5个小节,每节讲清概念、推导或机制)
-## 关键公式与术语
-(列表;公式用 LaTeX 行内写法 $...$)
-## 常见误区
-(2-3条,说明错在哪、正确理解是什么)
-## 与其他教材的对应
-(列出可对照的 Pearson 等教材章节主题)
-## 延伸阅读
-(只推荐你确信存在的权威来源,写书名或机构名即可,不要编造网址)
-## 小结
-(一段话)
-
-全文约2000-3000字。
+写成你亲口讲出来的讲稿,要求:
+- 纯文本,像说话一样连贯。不要标题、不要编号、不要项目符号、不要加粗、不要 Markdown、不要 LaTeX。公式直接用文字写,例如 P平方 = a立方。
+- 不要套话。不要写"本讲""同学们""首先其次最后""总之""综上所述""值得注意的是"这类词。直接从一个具体的问题或现象切入。
+- 专业水平。讲清楚原理、推导思路和数量级,用具体数字和具体例子,遇到常见的错误理解要当场点破,并讲明白错在哪。
+- 用你自己的话讲,不要照搬任何教材原文。
+- 只在最后用一两句话自然地提一下:这个主题在{refs}里对应讲哪方面,可以拿来对照。不要编造页码或章节号。
+- 全文 2200 到 2800 个汉字,分 5 到 8 个自然段,段与段之间空一行。
 """
-
-
-def extract_summary(text):
-    m = re.search(r"## 本讲摘要\s*(.+?)(?=\n## |\Z)", text, re.S)
-    return (m.group(1) if m else text[:200]).strip()[:300]
 
 
 def main():
@@ -61,18 +36,12 @@ def main():
     n = idx + 1
 
     text = ask(PROMPT.format(book=book, n=n, en=en, zh=zh, refs=REFS[subj]))
-
-    OUT.mkdir(exist_ok=True)
-    fname = f"{TODAY.isoformat()}-{subj}-{n:02d}.md"
-    (OUT / fname).write_text(f"# {subj} 第{n}讲:{zh}\n\n> 教材:{book} · {en}\n\n{text}\n", encoding="utf-8")
+    push_long(f"【{subj}】第{n}章 {zh}", text, "", group="讲义")
 
     prog[subj] = idx + 1
     PROG.parent.mkdir(exist_ok=True)
     PROG.write_text(json.dumps(prog, ensure_ascii=False, indent=1), encoding="utf-8")
-
-    url = f"https://github.com/{REPO}/blob/main/lectures/{fname}"
-    push(f"【{subj}】第{n}讲 {zh}", f"{extract_summary(text)}\n\n完整讲义:{url}", url)
-    print("written", fname)
+    print("pushed", subj, n)
 
 
 if __name__ == "__main__":
