@@ -4,7 +4,7 @@ name: study
 on:
   schedule:
     - cron: "0 0 * * *"    # 北京时间 08:00 雅思微练习
-    - cron: "0 5 * * *"    # 北京时间 13:00 学科微卡
+    # 学科微卡已停用,改由 lecture.yml 推送讲义
     - cron: "0 13 * * *"   # 北京时间 21:00 复习
     - cron: "0 12 * * 0"   # 每周日北京时间 20:00 每周小结
   workflow_dispatch:
@@ -43,7 +43,6 @@ jobs:
         run: |
           case "${{ github.event.schedule }}" in
             "0 0 * * *")  SLOT=ielts ;;
-            "0 5 * * *")  SLOT=subject ;;
             "0 13 * * *") SLOT=review ;;
             "0 12 * * 0") SLOT=report ;;
             *)            SLOT="${{ inputs.slot }}" ;;
