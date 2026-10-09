@@ -26,10 +26,41 @@ def ask(prompt, max_tokens=8000):
     raise RuntimeError(f"所有模型失败: {last}")
 
 
+def split_bytes(text, limit=2800):
+    """按段落切分,每段 UTF-8 不超过 limit 字节(Bark/APNs 单条上限约 4KB)。"""
+    parts, cur = [], ""
+    for para in text.split("\n"):
+        while len(para.encode("utf-8")) > limit:
+            cut = len(para)
+            while len(para[:cut].encode("utf-8")) > limit:
+                cut -= 20
+            if cur:
+                parts.append(cur); cur = ""
+            parts.append(para[:cut]); para = para[cut:]
+        if len((cur + "\n" + para).encode("utf-8")) > limit and cur:
+            parts.append(cur); cur = para
+        else:
+            cur = (cur + "\n" + para) if cur else para
+    if cur.strip():
+        parts.append(cur)
+    return [p.strip() for p in parts if p.strip()]
+
+
+def push_long(title, text, url="", group="学习讲义"):
+    import time
+    parts = split_bytes(text)
+    for i, p in enumerate(parts, 1):
+        t = title if len(parts) == 1 else f"{title} ({i}/{len(parts)})"
+        push(t, p, url, group)
+        time.sleep(2)
+
+
 def push(title, body, url, group="学习讲义"):
     if not BARK:
         print("[bark] BARK_KEY 未设置,跳过推送")
         return
-    r = requests.post("https://api.day.app/push", json={
-        "device_key": BARK, "title": title, "body": body, "url": url, "group": group}, timeout=30)
+    data = {"device_key": BARK, "title": title, "body": body, "group": group}
+    if url:
+        data["url"] = url
+    r = requests.post("https://api.day.app/push", json=data, timeout=30)
     print("[bark]", r.status_code)
