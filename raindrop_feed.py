@@ -4,7 +4,9 @@
 import json, os, re, time, urllib.request, urllib.parse, xml.etree.ElementTree as ET
 
 RD = "https://api.raindrop.io/rest/v1"
-RTOKEN = os.environ["RAINDROP_TOKEN"]
+RTOKEN = os.environ.get("RAINDROP_TOKEN", "")
+BARK = os.environ.get("BARK_KEY", "")
+PUSH_MAX = 5  # 每天最多推几条到 Bark
 GKEY = os.environ.get("LLM_API_KEY", "")
 MODELS = [m.strip() for m in os.environ.get(
     "LLM_MODEL",
@@ -117,6 +119,20 @@ def collection_ids():
     return have
 
 
+def push_bark(chosen):
+    if not BARK:
+        print("[bark] BARK_KEY 未设置，跳过推送")
+        return
+    for c in chosen[:PUSH_MAX]:
+        try:
+            body = json.dumps({"device_key": BARK, "title": f"【{c['subject']}】{c['title'][:60]}",
+                               "body": c["note"], "url": c["link"], "group": "每日资料"}).encode()
+            http("https://api.day.app/push", body, {"Content-Type": "application/json; charset=utf-8"}, "POST")
+            print(f"[bark] pushed {c['title'][:40]}")
+        except Exception as e:
+            print(f"[bark FAIL] {type(e).__name__}: {e}")
+
+
 def main():
     os.makedirs("state", exist_ok=True)
     seen = set(json.load(open(SEEN_FILE))) if os.path.exists(SEEN_FILE) else set()
@@ -143,13 +159,20 @@ def main():
         it["note"] = p.get("note") or it["text"][:120]
         chosen.append(it)
 
-    cols = collection_ids()
-    if chosen:
-        rd("/raindrops", {"items": [{
-            "link": c["link"], "title": c["title"][:200], "excerpt": c["note"],
-            "tags": c["tags"], "collection": {"$id": cols[c["subject"]]}, "pleaseParse": {}}
-            for c in chosen]})
-    print(f"added to Raindrop: {len(chosen)}")
+    if RTOKEN and chosen:
+        try:
+            cols = collection_ids()
+            rd("/raindrops", {"items": [{
+                "link": c["link"], "title": c["title"][:200], "excerpt": c["note"],
+                "tags": c["tags"], "collection": {"$id": cols[c["subject"]]}, "pleaseParse": {}}
+                for c in chosen]})
+            print(f"added to Raindrop: {len(chosen)}")
+        except Exception as e:
+            print(f"[raindrop FAIL] {type(e).__name__}: {e}")
+    elif not RTOKEN:
+        print("[raindrop] RAINDROP_TOKEN 未设置，跳过收藏")
+
+    push_bark(chosen)
 
     seen |= {i["link"] for i in items}  # 没选中的也记住，避免明天重复判断
     json.dump(sorted(seen)[-3000:], open(SEEN_FILE, "w"), ensure_ascii=False)
