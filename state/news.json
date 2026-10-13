@@ -88,5 +88,23 @@
   "link": "https://www.nature.com/articles/s41586-026-11255-3",
   "score": 4.0,
   "summary": "该论文报道了聚乙烯表面的选择性催化氧化技术。这对塑料降解和高分子材料化学具有重要的实际影响和突破。"
+ },
+ {
+  "time": "2026-10-14 06:38",
+  "source": "Science 新闻",
+  "kind": "新闻",
+  "title": "AI edges closer to solving the Riemann hypothesis, one of math’s hardest problems",
+  "link": "https://www.science.org/content/article/ai-edges-closer-solving-riemann-hypothesis-one-math-s-hardest-problems",
+  "score": 4.0,
+  "summary": "人工智能在解决数学难题之一的黎曼猜想方面取得了进展。这表明AI在推动纯数学研究边界方面正发挥越来越重要的作用。"
+ },
+ {
+  "time": "2026-10-14 06:38",
+  "source": "Nature",
+  "kind": "综述",
+  "title": "Can GLP-1s heal the brain? Obesity drugs get a makeover for addiction and depression",
+  "link": "https://www.nature.com/articles/d41586-026-03252-3",
+  "score": 4.0,
+  "summary": "减肥药物GLP-1受体激动剂正被重新评估用于治疗成瘾和抑郁症等脑部疾病。这篇综述探讨了此类药物在神经精神疾病治疗领域的潜力。"
  }
 ]
