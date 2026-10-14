@@ -106,5 +106,41 @@
   "link": "https://www.nature.com/articles/d41586-026-03252-3",
   "score": 4.0,
   "summary": "减肥药物GLP-1受体激动剂正被重新评估用于治疗成瘾和抑郁症等脑部疾病。这篇综述探讨了此类药物在神经精神疾病治疗领域的潜力。"
+ },
+ {
+  "time": "2026-10-14 21:35",
+  "source": "Science 新闻",
+  "kind": "新闻",
+  "title": "Simons Observatory takes a closer look at the infant universe",
+  "link": "https://www.science.org/content/article/simons-observatory-takes-closer-look-infant-universe",
+  "score": 4.0,
+  "summary": "西蒙斯天文台（Simons Observatory）开启了对早期宇宙更深入的观测。这项工作有助于科学家进一步理解宇宙大爆炸及宇宙演化的早期历史。"
+ },
+ {
+  "time": "2026-10-14 21:35",
+  "source": "Nature Astronomy",
+  "kind": "论文",
+  "title": "A spatial map of the atmospheric limb of a hot Jupiter",
+  "link": "https://www.nature.com/articles/s41550-026-02986-4",
+  "score": 4.0,
+  "summary": "研究人员绘制了热木星大气边缘的空间图谱。该成果对深入理解系外行星的大气结构和气候特征具有重要意义。"
+ },
+ {
+  "time": "2026-10-14 21:35",
+  "source": "PNAS",
+  "kind": "论文",
+  "title": "Masking phosphatidylserine prevents neuronal loss in two distinct Drosophila models of neurodegeneration",
+  "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2622558123?af=R",
+  "score": 4.0,
+  "summary": "研究表明，掩蔽磷脂酰丝氨酸可以防止两个不同的果蝇神经退行性疾病模型中的神经元丢失。该发现为神经退行性疾病的潜在治疗策略提供了重要线索。"
+ },
+ {
+  "time": "2026-10-14 21:35",
+  "source": "PNAS",
+  "kind": "论文",
+  "title": "Step-by-step maturation mechanism of the binary toxin pore revealed by cryo-EM analysis",
+  "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2627537123?af=R",
+  "score": 4.0,
+  "summary": "通过冷冻电镜分析，研究揭示了二元毒素孔道逐步成熟的机制。该成果有助于深入理解毒素的致病作用及其分子结构基础。"
  }
 ]
