@@ -331,5 +331,23 @@
   "link": "https://www.science.org/content/article/how-scientists-domesticated-killer-bacterium",
   "score": 4.0,
   "summary": "科学家们研究并阐明了人类如何将一种原本致命的致病细菌进行驯化。这一研究对于理解病原体演化和生物学史具有重要影响。"
+ },
+ {
+  "time": "2026-10-19 20:54",
+  "source": "ESA",
+  "kind": "新闻",
+  "title": "Euclid discovers new comet",
+  "link": "https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_discovers_new_comet",
+  "score": 4.0,
+  "summary": "欧洲空间局（ESA）的欧几里得太空望远镜发现了一颗新彗星。这一观测成果展示了该望远镜在深空探测和天体发现方面的强大能力。"
+ },
+ {
+  "time": "2026-10-19 20:54",
+  "source": "Nature",
+  "kind": "综述",
+  "title": "How pregnancy reshapes the brain throughout life",
+  "link": "https://www.nature.com/articles/d41586-026-03312-8",
+  "score": 4.0,
+  "summary": "本文探讨了女性在怀孕期间及一生中大脑结构如何发生重塑。这项研究对于理解母体神经系统的长期变化具有重要意义。"
  }
 ]
