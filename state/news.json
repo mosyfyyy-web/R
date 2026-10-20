@@ -376,5 +376,14 @@
   "link": "https://www.science.org/content/article/lizard-s-great-escape-was-frozen-amber-99-million-years",
   "score": 4.0,
   "summary": "科学家在9900万年前的琥珀中发现了一只被完美保存的蜥蜴，为了逃生而展现出惊人的防御机制。这一重大发现为研究远古爬行动物的行为和生态提供了极具价值的化石证据。"
+ },
+ {
+  "time": "2026-10-20 12:36",
+  "source": "arXiv astro-ph",
+  "kind": "预印本",
+  "title": "Can Blue UV-Bright Galaxies Drive Reionization at Cosmic Dawn? An $M_{\\rm UV}=-19.6$ Galaxy with $f_{\\rm esc}\\approx0.85$ at $z=9.244$",
+  "link": "https://arxiv.org/abs/2610.24092",
+  "score": 4.0,
+  "summary": "论文报告了一颗在红移 $z=9.244$、紫外星等 $M_{\rm UV}=-19.6$ 且逃逸分数极高的蓝色星系，探讨了其驱动宇宙再电离的可能性。该发现对理解宇宙黎明时期的再电离源具有重要意义。"
  }
 ]
