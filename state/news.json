@@ -385,5 +385,23 @@
   "link": "https://arxiv.org/abs/2610.24092",
   "score": 4.0,
   "summary": "论文报告了一颗在红移 $z=9.244$、紫外星等 $M_{\rm UV}=-19.6$ 且逃逸分数极高的蓝色星系，探讨了其驱动宇宙再电离的可能性。该发现对理解宇宙黎明时期的再电离源具有重要意义。"
+ },
+ {
+  "time": "2026-10-20 17:56",
+  "source": "NASA",
+  "kind": "新闻",
+  "title": "The Human Fingerprint on Earth’s Water Cycle",
+  "link": "https://science.nasa.gov/earth/earth-observatory/the-human-fingerprint-on-earths-water-cycle/",
+  "score": 4.0,
+  "summary": "NASA报道了人类活动对地球水循环产生的影响。该研究揭示了人类干预全球水文系统的关键证据，对理解全球水资源变化具有重要意义。"
+ },
+ {
+  "time": "2026-10-20 17:56",
+  "source": "ESA",
+  "kind": "新闻",
+  "title": "MMX lifts off to Mars’s moon Phobos",
+  "link": "https://www.esa.int/ESA_Multimedia/Images/2026/10/MMX_lifts_off_to_Mars_s_moon_Phobos",
+  "score": 5.0,
+  "summary": "ESA的MMX火星探测任务成功发射前往火星卫星火卫一。这是重大的航天任务进展，具有极高的科学探索价值。"
  }
 ]
