@@ -1770,5 +1770,165 @@
   "link": "https://www.nature.com/articles/d41586-026-03063-6",
   "score": 3.0,
   "summary": "本文探讨了植物是否能充当抵御风暴的海岸线屏障。它结合了生态学与海岸工程，评估了自然防御方案的有效性。"
+ },
+ {
+  "time": "2026-10-22 06:14",
+  "source": "NASA",
+  "kind": "新闻",
+  "field": "天文与航天",
+  "title": "NASA Conducts RS-25 Engine Test in Support of Future Artemis Missions",
+  "link": "https://www.nasa.gov/image-article/rs-25-engine-test-in-support-of-future-artemis-missions/",
+  "score": 3.0,
+  "summary": "NASA成功进行了RS-25发动机测试，以支持未来的阿耳忒弥斯（Artemis）登月任务。该测试验证了发动机性能，对推进深空探测具有重要意义。"
+ },
+ {
+  "time": "2026-10-22 06:14",
+  "source": "Science 新闻",
+  "kind": "新闻",
+  "field": "生命科学",
+  "title": "With blood test looming, government puts $41 million into clinical trials to ward off Alzheimer’s disease",
+  "link": "https://www.science.org/content/article/blood-test-looming-government-puts-41-million-clinical-trials-ward-alzheimer-s-disease",
+  "score": 4.0,
+  "summary": "随着血液检测技术的临近，美国政府投入4100万美元用于临床试验，以期预防阿尔茨海默病。这项资金支持对于推动早期筛查和干预手段的临床转化具有重要价值。"
+ },
+ {
+  "time": "2026-10-22 06:14",
+  "source": "Nature",
+  "kind": "新闻",
+  "field": "天文与航天",
+  "title": "Surprise! White dwarf stars come in a rainbow of colours",
+  "link": "https://www.nature.com/articles/d41586-026-03319-1",
+  "score": 4.0,
+  "summary": "研究发现白矮星具有丰富多彩的颜色，打破了以往的传统认知。这一观测结果增进了人类对恒星演化终态多样性的理解。"
+ },
+ {
+  "time": "2026-10-22 06:14",
+  "source": "Nature",
+  "kind": "新闻",
+  "field": "心理与神经",
+  "title": "Teen depression and anxiety predicted by childhood brain development",
+  "link": "https://www.nature.com/articles/d41586-026-03357-9",
+  "score": 4.0,
+  "summary": "研究表明，儿童时期的脑部发育情况可以预测青少年时期的抑郁和焦虑风险。该发现有助于实现心理健康问题的早期识别与干预。"
+ },
+ {
+  "time": "2026-10-22 06:14",
+  "source": "Science Advances",
+  "kind": "论文",
+  "field": "地球与气候",
+  "title": "Prioritizing reducing impacts on species to minimize residual reserves",
+  "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeh8129?af=R",
+  "score": 3.0,
+  "summary": "该研究探讨了如何优先减少对物种的影响，以最大程度地保护残余自然保护区。这为生物多样性保护和生态管理策略提供了科学依据。"
+ },
+ {
+  "time": "2026-10-22 06:14",
+  "source": "Science Advances",
+  "kind": "论文",
+  "field": "生命科学",
+  "title": "Coordinated mosquito biting dynamics at the human skin interface",
+  "link": "https://www.science.org/doi/abs/10.1126/sciadv.aec2023?af=R",
+  "score": 3.0,
+  "summary": "研究揭示了在人类皮肤界面上蚊子叮咬行为的协同动态。这有助于深入理解蚊媒传染病的传播机制。"
+ },
+ {
+  "time": "2026-10-22 06:14",
+  "source": "Science Advances",
+  "kind": "论文",
+  "field": "天文与航天",
+  "title": "How high-pressure ices on large ocean worlds can support habitability: The compatibility of amino acids into ice VI and VII",
+  "link": "https://www.science.org/doi/abs/10.1126/sciadv.aec2045?af=R",
+  "score": 3.0,
+  "summary": "研究探讨了大型海洋星球上的高压冰（冰VI和冰VII）如何容纳氨基酸，从而支持其宜居性。该成果拓展了对极端环境下生命存在可能性的认识。"
+ },
+ {
+  "time": "2026-10-22 06:14",
+  "source": "Science Advances",
+  "kind": "论文",
+  "field": "物理与化学",
+  "title": "Towards intense single-digit attosecond pulses with a 100-mJ-class mid-infrared sub-cycle laser",
+  "link": "https://www.science.org/doi/abs/10.1126/sciadv.aed5357?af=R",
+  "score": 4.0,
+  "summary": "研究团队利用100毫焦级中红外亚周期激光，朝着产生高强度个位数阿秒脉冲迈出了重要一步。该技术对超快光学和物理学研究具有重要推动作用。"
+ },
+ {
+  "time": "2026-10-22 06:14",
+  "source": "Science Advances",
+  "kind": "论文",
+  "field": "心理与神经",
+  "title": "Predicting upcoming visual features during eye movements yields scene representations aligned with human visual cortex",
+  "link": "https://www.science.org/doi/abs/10.1126/sciadv.aee1955?af=R",
+  "score": 3.0,
+  "summary": "研究发现，在眼球运动过程中预测即将到来的视觉特征，会产生与人类视觉皮层相契合的场景表征。这深化了对大脑视觉信息处理机制的理解。"
+ },
+ {
+  "time": "2026-10-22 06:14",
+  "source": "Science Advances",
+  "kind": "论文",
+  "field": "技术与工程",
+  "title": "Scentronic: An artificial intelligence–assisted olfactory interface for remote odor sharing and transmission",
+  "link": "https://www.science.org/doi/abs/10.1126/sciadv.aee9266?af=R",
+  "score": 3.0,
+  "summary": "开发了一种名为Scentronic的人工智能辅助嗅觉接口，用于远程气味共享和传输。该技术为数字多媒体交互增加了嗅觉维度。"
+ },
+ {
+  "time": "2026-10-22 06:14",
+  "source": "Science Advances",
+  "kind": "论文",
+  "field": "物理与化学",
+  "title": "Ultrasonic metamaterial at MHz frequencies using microstructured glass",
+  "link": "https://www.science.org/doi/abs/10.1126/sciadv.aef0666?af=R",
+  "score": 3.0,
+  "summary": "使用微结构玻璃制备了兆赫兹频率的超声超材料。该研究为声波操控和相关器件设计提供了新材料方案。"
+ },
+ {
+  "time": "2026-10-22 06:14",
+  "source": "Science Advances",
+  "kind": "论文",
+  "field": "生命科学",
+  "title": "CCAN forms the spherical shell-like structure in interphase kinetochores",
+  "link": "https://www.science.org/doi/abs/10.1126/sciadv.aef4365?af=R",
+  "score": 3.0,
+  "summary": "研究发现CCAN（着丝粒核心复合体）在间期着丝粒中形成了类似球壳的结构。这揭示了细胞分裂中染色体分离关键结构的组织形式。"
+ },
+ {
+  "time": "2026-10-22 06:14",
+  "source": "Science Advances",
+  "kind": "论文",
+  "field": "生命科学",
+  "title": "Staphylococcus aureus wall teichoic acid structure dictates virulence potential and resistance to host defenses",
+  "link": "https://www.science.org/doi/abs/10.1126/sciadv.aef7070?af=R",
+  "score": 3.0,
+  "summary": "金黄色葡萄球菌壁磷壁酸的结构决定了其毒力潜能和对抗宿主防御的能力。该发现为抗菌药物研发提供了潜在靶点。"
+ },
+ {
+  "time": "2026-10-22 06:14",
+  "source": "Science Advances",
+  "kind": "论文",
+  "field": "生命科学",
+  "title": "p75NTR orchestrates chondrogenesis and mechanoadaptation to preserve temporomandibular joint development and homeostasis",
+  "link": "https://www.science.org/doi/abs/10.1126/sciadv.aef7786?af=R",
+  "score": 3.0,
+  "summary": "p75NTR受体在协调软骨生成和机械适应中起关键作用，从而维护颞下颌关节的发育与稳态。这为关节疾病研究提供了新的机制见解。"
+ },
+ {
+  "time": "2026-10-22 06:14",
+  "source": "Science Advances",
+  "kind": "论文",
+  "field": "生命科学",
+  "title": "RanGAP1 coordinates the ER-lamina interface to drive de novo nuclear envelope reassembly in mouse embryos",
+  "link": "https://www.science.org/doi/abs/10.1126/sciadv.aef7931?af=R",
+  "score": 3.0,
+  "summary": "研究发现RanGAP1协调内质网-核膜界面，以驱动小鼠胚胎中核膜的从头组装。这阐明了早期胚胎发育中细胞核构建的分子机制。"
+ },
+ {
+  "time": "2026-10-22 06:14",
+  "source": "Science Advances",
+  "kind": "论文",
+  "field": "生命科学",
+  "title": "Stable coexistence and transport of lytic phage infections with migrating bacterial hosts",
+  "link": "https://www.science.org/doi/abs/10.1126/sciadv.aef9265?af=R",
+  "score": 3.0,
+  "summary": "研究揭示了溶菌性噬菌体感染与迁移细菌宿主之间的稳定共生与传输机制。该成果加深了对微生物生态学和噬菌体-宿主相互作用的理解。"
  }
 ]
