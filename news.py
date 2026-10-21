@@ -55,6 +55,18 @@ def fetch_rss(url):
     return out[:PER_SOURCE]
 
 
+def parse_items(txt):
+    """容错解析:逐个对象提取,修复非法转义,坏掉的对象跳过,不让整批失败。"""
+    txt = re.sub(r"\\(?![\"\\/bfnrtu])", r"\\\\", txt)
+    out = []
+    for m in re.finditer(r"\{[^{}]*\}", txt, re.S):
+        try:
+            out.append(json.loads(m.group(0), strict=False))
+        except Exception:
+            continue
+    return out
+
+
 def score(items, status):
     keep = []
     for start in range(0, len(items), BATCH):
@@ -62,8 +74,10 @@ def score(items, status):
         lines = "\n".join(f"{i}. [{x['source']}] {x['title']} — {x['text'][:300]}" for i, x in enumerate(chunk))
         try:
             txt = ask(PROMPT + lines, max_tokens=6000)
-            m = re.search(r"\[.*\]", txt, re.S)
-            for a in (json.loads(m.group(0)) if m else []):
+            arr = parse_items(txt)
+            if not arr:
+                raise RuntimeError("无法解析评分结果")
+            for a in arr:
                 try:
                     i, s = int(a["i"]), float(a.get("score", 0))
                 except Exception:
