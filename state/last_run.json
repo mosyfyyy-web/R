@@ -1,5 +1,5 @@
 {
- "time": "2026-10-21 18:28",
+ "time": "2026-10-21 18:32",
  "sources": {
   "NASA": 10,
   "ESA": 12,
@@ -12,10 +12,6 @@
   "arXiv astro-ph": 12
  },
  "new_items": 96,
- "llm_errors": [
-  "Expecting ',' delimiter: line 191 column 3 (char 4225)",
-  "Invalid \\escape: line 21 column 44 (char 490)"
- ],
- "kept": 48,
+ "kept": 74,
  "raindrop": "失败: Raindrop 401: {\"result\":false,\"status\":401,\"errorMessage\":\"Incorrect access_token\",\"auth\":false}"
 }

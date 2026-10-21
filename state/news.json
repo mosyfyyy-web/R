@@ -910,5 +910,745 @@
   "link": "https://www.nature.com/articles/s41562-026-02579-1",
   "score": 3.0,
   "summary": "发现人工智能写作支持改变了请愿书的风格，但并未显著提高请愿的最终结果。这反映了AI辅助写作在实际社会影响中的局限性。"
+ },
+ {
+  "time": "2026-10-21 18:32",
+  "source": "NASA",
+  "kind": "新闻",
+  "field": "天文与航天",
+  "title": "APOD: 2026 October 21 – New Ghosts Revealed in Cassiopeia",
+  "link": "https://science.nasa.gov/image-article/apod-2026-october-21-new-ghosts-revealed-in-cassiopeia/",
+  "score": 3.0,
+  "summary": "NASA发布了仙后座中新发现的天文奇观APOD影像。这展示了宇宙天体的演化细节，有助于公众了解恒星遗迹。"
+ },
+ {
+  "time": "2026-10-21 18:32",
+  "source": "NASA",
+  "kind": "新闻",
+  "field": "技术与工程",
+  "title": "NASA’s SR-1 Freedom Advances with Progress on Nuclear Power Module",
+  "link": "https://www.nasa.gov/centers-and-facilities/glenn/sr-1-freedom-advances-with-progress-on-nuclear-power-module/",
+  "score": 3.0,
+  "summary": "NASA的SR-1 Freedom项目在核动力模块方面取得进展。这标志着空间核动力技术研发向前迈出重要一步。"
+ },
+ {
+  "time": "2026-10-21 18:32",
+  "source": "NASA",
+  "kind": "新闻",
+  "field": "技术与工程",
+  "title": "NASA Experimental Mars Helicopter Blade Designs Target Longer Flights",
+  "link": "https://www.nasa.gov/science-research/aeronautics-research/nasa-experimental-mars-helicopter-blade-designs-target-longer-flights/",
+  "score": 3.0,
+  "summary": "NASA正在测试旨在延长火星直升机飞行时间的实验性桨叶设计。这将为未来的火星航空探测提供更强的飞行能力。"
+ },
+ {
+  "time": "2026-10-21 18:32",
+  "source": "NASA",
+  "kind": "新闻",
+  "field": "技术与工程",
+  "title": "NASA Provides Progress Update on Moon Base Rovers",
+  "link": "https://www.nasa.gov/missions/moon-base/nasa-provides-progress-update-on-moon-base-rovers/",
+  "score": 3.0,
+  "summary": "NASA更新了月球基地巡视器（罗孚）的研发进展。这些进展为未来的载人登月及月面长期驻留提供了技术支撑。"
+ },
+ {
+  "time": "2026-10-21 18:32",
+  "source": "NASA",
+  "kind": "新闻",
+  "field": "天文与航天",
+  "title": "Webb Captures Stellar Jets",
+  "link": "https://www.nasa.gov/image-article/webb-captures-stellar-jets/",
+  "score": 4.0,
+  "summary": "韦布空间望远镜成功捕捉到恒星喷流的高清图像。这为科学家研究恒星形成过程中的物质喷射机制提供了宝贵观测数据。"
+ },
+ {
+  "time": "2026-10-21 18:32",
+  "source": "NASA",
+  "kind": "新闻",
+  "field": "地球与气候",
+  "title": "The Human Fingerprint on Earth’s Water Cycle",
+  "link": "https://science.nasa.gov/earth/earth-observatory/the-human-fingerprint-on-earths-water-cycle/",
+  "score": 4.0,
+  "summary": "研究揭示了人类活动对地球水循环产生的深刻影响。该发现对于理解全球水资源变化与气候变化具有重要意义。"
+ },
+ {
+  "time": "2026-10-21 18:32",
+  "source": "ESA",
+  "kind": "新闻",
+  "field": "天文与航天",
+  "title": "MMX lifts off to Mars’s moon Phobos",
+  "link": "https://www.esa.int/ESA_Multimedia/Images/2026/10/MMX_lifts_off_to_Mars_s_moon_Phobos",
+  "score": 5.0,
+  "summary": "ESA的MMX火星探测任务成功发射，目标直指火星卫星火卫一。该任务对于揭示火星卫星起源及太阳系演化具有重大意义。"
+ },
+ {
+  "time": "2026-10-21 18:32",
+  "source": "ESA",
+  "kind": "新闻",
+  "field": "天文与航天",
+  "title": "Euclid discovers new comet",
+  "link": "https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_discovers_new_comet",
+  "score": 4.0,
+  "summary": "欧空局的欧几里得（Euclid）望远镜意外发现了一颗新彗星。这展示了该望远镜在深空巡天方面的强大能力。"
+ },
+ {
+  "time": "2026-10-21 18:32",
+  "source": "ESA",
+  "kind": "新闻",
+  "field": "天文与航天",
+  "title": "Mars moon lander set to launch on 19 October",
+  "link": "https://www.esa.int/Science_Exploration/Space_Science/Mars_moon_lander_set_to_launch_on_19_October",
+  "score": 4.0,
+  "summary": "火星月球着陆器定于10月19日发射。该任务是深空探测的重要组成部分，备受航天界关注。"
+ },
+ {
+  "time": "2026-10-21 18:32",
+  "source": "ESA",
+  "kind": "新闻",
+  "field": "天文与航天",
+  "title": "Solar Orbiter tracks origin of mysterious magnetic switchbacks",
+  "link": "https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_tracks_origin_of_mysterious_magnetic_switchbacks",
+  "score": 4.0,
+  "summary": "太阳轨道飞行器成功追踪到了神秘太阳磁折返（magnetic switchbacks）的起源。这一成果有助于破解太阳风加热和加速的物理机制。"
+ },
+ {
+  "time": "2026-10-21 18:32",
+  "source": "ESA",
+  "kind": "新闻",
+  "field": "天文与航天",
+  "title": "Mars’s oddest cloud may be even odder than we thought",
+  "link": "https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Mars_s_oddest_cloud_may_be_even_odder_than_we_thought",
+  "score": 3.0,
+  "summary": "欧空局发现火星上最奇特的云可能比以往认知的更加复杂。这为研究火星大气动力学提供了新的观测视角。"
+ },
+ {
+  "time": "2026-10-21 18:32",
+  "source": "ESA",
+  "kind": "新闻",
+  "field": "天文与航天",
+  "title": "Webb captures commotion from nebula’s stellar jets",
+  "link": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Webb_captures_commotion_from_nebula_s_stellar_jets",
+  "score": 4.0,
+  "summary": "韦布望远镜捕捉到了星云中恒星喷流造成的剧烈扰动。这帮助天文学家进一步解析恒星诞生早期的复杂环境。"
+ },
+ {
+  "time": "2026-10-21 18:32",
+  "source": "ESA",
+  "kind": "新闻",
+  "field": "天文与航天",
+  "title": "Science begins for Smile",
+  "link": "https://www.esa.int/Science_Exploration/Space_Science/Smile/Science_begins_for_Smile",
+  "score": 3.0,
+  "summary": "Smile卫星任务正式开始科学观测。这标志着这项旨在研究太阳风与地球磁层相互作用的任务进入产出成果的阶段。"
+ },
+ {
+  "time": "2026-10-21 18:32",
+  "source": "ESA",
+  "kind": "新闻",
+  "field": "天文与航天",
+  "title": "Galaxies in a cosmic house of mirrors",
+  "link": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Galaxies_in_a_cosmic_house_of_mirrors",
+  "score": 3.0,
+  "summary": "借助宇宙引力透镜效应，科学家观测到了如镜厅般奇妙的星系影像。这深化了对宇宙大尺度结构和暗物质分布的理解。"
+ },
+ {
+  "time": "2026-10-21 18:32",
+  "source": "ESA",
+  "kind": "新闻",
+  "field": "天文与航天",
+  "title": "A galaxy spinning out of sync",
+  "link": "https://www.esa.int/ESA_Multimedia/Images/2026/09/A_galaxy_spinning_out_of_sync",
+  "score": 3.0,
+  "summary": "科学家发现了一个旋转方向不同步的异常星系。该发现对现有的星系演化与动力学理论提出了新挑战。"
+ },
+ {
+  "time": "2026-10-21 18:32",
+  "source": "ESA",
+  "kind": "新闻",
+  "field": "天文与航天",
+  "title": "BepiColombo’s Mercury arrival begins - full replay",
+  "link": "https://www.esa.int/ESA_Multimedia/Videos/2026/09/BepiColombo_s_Mercury_arrival_begins_-_full_replay",
+  "score": 3.0,
+  "summary": "BepiColombo水星探测器抵达水星并开始进入环绕阶段的全程回放。这是人类水星探测史上的关键里程碑。"
+ },
+ {
+  "time": "2026-10-21 18:32",
+  "source": "Science 新闻",
+  "kind": "新闻",
+  "field": "其他",
+  "title": "Archaeologists spar over age of key South American dig site",
+  "link": "https://www.science.org/content/article/archaeologists-spar-over-age-key-south-american-dig-site",
+  "score": 3.0,
+  "summary": "考古学家对南美洲一个关键发掘遗址的年代产生了争议。这一学术争论直接关乎美洲早期人类的迁徙与定居历史。"
+ },
+ {
+  "time": "2026-10-21 18:32",
+  "source": "Science 新闻",
+  "kind": "新闻",
+  "field": "生命科学",
+  "title": "As Ebola epidemic rages, Congo bets on high-stakes ‘hope’ vaccine trial",
+  "link": "https://www.science.org/content/article/ebola-epidemic-rages-congo-bets-high-stakes-hope-vaccine-trial",
+  "score": 4.0,
+  "summary": "在埃博拉疫情肆虐之际，刚果（金）决定押注高风险的“希望”疫苗试验。这对于应对致命传染病暴发具有重要的公共卫生实践意义。"
+ },
+ {
+  "time": "2026-10-21 18:32",
+  "source": "Science 新闻",
+  "kind": "新闻",
+  "field": "生命科学",
+  "title": "This ‘glue gun ant’ fires sticky webs at its enemies",
+  "link": "https://www.science.org/content/article/glue-gun-ant-fires-sticky-webs-its-enemies",
+  "score": 4.0,
+  "summary": "科学新闻报道了一种能够向敌人发射粘性网的“胶枪蚁”。这一独特的捕食与防御行为拓展了对昆虫生态行为的认知。"
+ },
+ {
+  "time": "2026-10-21 18:32",
+  "source": "Science 新闻",
+  "kind": "新闻",
+  "field": "技术与工程",
+  "title": "Could your chatbot tip off a scientific rival? It’s possible, researchers say",
+  "link": "https://www.science.org/content/article/could-your-chatbot-tip-scientific-rival-it-s-possible-researchers-say",
+  "score": 3.0,
+  "summary": "研究人员指出，聊天机器人可能会无意间向科研竞争对手泄露敏感信息。这引发了学术界对人工智能使用安全与保密性的担忧。"
+ },
+ {
+  "time": "2026-10-21 18:32",
+  "source": "Science 新闻",
+  "kind": "新闻",
+  "field": "生命科学",
+  "title": "Biologist David Sabatini wins $6 million in defamation lawsuit",
+  "link": "https://www.science.org/content/article/biologist-david-sabatini-wins-6-million-defamation-lawsuit",
+  "score": 3.0,
+  "summary": "生物学家大卫·萨巴蒂尼（David Sabatini）在名誉诽谤诉讼中赢得了600万美元的赔偿。这反映了学术界高调纠纷中的法律进展。"
+ },
+ {
+  "time": "2026-10-21 18:32",
+  "source": "Science 新闻",
+  "kind": "新闻",
+  "field": "生命科学",
+  "title": "This lizard’s ‘great escape’ was frozen in amber for 99 million years",
+  "link": "https://www.science.org/content/article/lizard-s-great-escape-was-frozen-amber-99-million-years",
+  "score": 4.0,
+  "summary": "一块保存完好的9900万年前琥珀中，封存了一只蜥蜴惊心动魄的“胜利大逃亡”瞬间。这为古生物学研究提供了极其珍贵的微观行为化石证据。"
+ },
+ {
+  "time": "2026-10-21 18:32",
+  "source": "Science 新闻",
+  "kind": "新闻",
+  "field": "地球与气候",
+  "title": "The 2010 Deepwater Horizon oil spill devastated deep-sea life—and it hasn’t recovered",
+  "link": "https://www.science.org/content/article/2010-deepwater-horizon-oil-spill-devastated-deep-sea-life-and-it-hasn-t-recovered",
+  "score": 4.0,
+  "summary": "研究表明，2010年“深水地平线”石油泄漏事件对深海生物造成了毁灭性打击且至今未能恢复。这凸显了重大海洋生态灾难的长期持久影响。"
+ },
+ {
+  "time": "2026-10-21 18:32",
+  "source": "Science 新闻",
+  "kind": "新闻",
+  "field": "生命科学",
+  "title": "Department of Justice to fund studies of gender dysphoria and violent behavior",
+  "link": "https://www.science.org/content/article/department-justice-fund-studies-gender-dysphoria-and-violent-behavior",
+  "score": 3.0,
+  "summary": "美国司法部将资助关于性别 dysphoria 与暴力行为之间关系的研究。这项研究涉及敏感的社会与医学交叉领域，引发学术界关注。"
+ },
+ {
+  "time": "2026-10-21 18:32",
+  "source": "Science 新闻",
+  "kind": "新闻",
+  "field": "生命科学",
+  "title": "Botox was born by domesticating a killer bacterium",
+  "link": "https://www.science.org/content/article/how-scientists-domesticated-killer-bacterium",
+  "score": 3.0,
+  "summary": "本文介绍了肉毒杆菌毒素（Botox）是如何通过驯化一种致命细菌而诞生的历史。它揭示了科学发现背后的微生物学演化渊源。"
+ },
+ {
+  "time": "2026-10-21 18:32",
+  "source": "Nature",
+  "kind": "新闻",
+  "field": "地球与气候",
+  "title": "Global emissions slow — but world hurtles towards 2 °C of warming",
+  "link": "https://www.nature.com/articles/d41586-026-03355-x",
+  "score": 4.0,
+  "summary": "全球温室气体排放增长有所放缓，但世界仍然朝着升温2摄氏度的危险方向迅速迈进。该报道对于全球气候治理与减排政策具有重要参考价值。"
+ },
+ {
+  "time": "2026-10-21 18:32",
+  "source": "Nature",
+  "kind": "新闻",
+  "field": "技术与工程",
+  "title": "How tech billionaires are disrupting biomedical science",
+  "link": "https://www.nature.com/articles/d41586-026-03311-9",
+  "score": 3.0,
+  "summary": "文章探讨了科技亿万富翁如何通过资金和资源投入来颠覆和改变生物医学科学的研究格局。这反映了当前科研资助模式的重要变革。"
+ },
+ {
+  "time": "2026-10-21 18:32",
+  "source": "Nature",
+  "kind": "新闻",
+  "field": "其他",
+  "title": "How a new wave of science philanthropists can have the greatest impact",
+  "link": "https://www.nature.com/articles/d41586-026-03326-2",
+  "score": 3.0,
+  "summary": "本文讨论了新一波科学慈善家如何能够对科学界产生最大的影响力。它为私人资本如何有效资助基础与应用研究提供了视角。"
+ },
+ {
+  "time": "2026-10-21 18:32",
+  "source": "Nature",
+  "kind": "新闻",
+  "field": "生命科学",
+  "title": "Nobel-prizewinning breakthroughs can emerge from neglected organisms",
+  "link": "https://www.nature.com/articles/d41586-026-03351-1",
+  "score": 3.0,
+  "summary": "文章指出，获得诺贝尔奖的突破性成果往往可能源自被忽视的生物体。这强调了基础生物多样性研究不可预测的重要价值。"
+ },
+ {
+  "time": "2026-10-21 18:32",
+  "source": "Nature",
+  "kind": "新闻",
+  "field": "生命科学",
+  "title": "Conservation planning should follow animal clocks",
+  "link": "https://www.nature.com/articles/d41586-026-03354-y",
+  "score": 3.0,
+  "summary": "研究建议自然保护规划应当遵循动物自身的生物钟与节律。这为生态保护策略的制定提供了新的时间生物学视角。"
+ },
+ {
+  "time": "2026-10-21 18:32",
+  "source": "Nature",
+  "kind": "新闻",
+  "field": "其他",
+  "title": "Europe and the rest of the world must come up with an answer to US science strategy",
+  "link": "https://www.nature.com/articles/d41586-026-03352-0",
+  "score": 3.0,
+  "summary": "文章指出欧洲及世界其他国家必须对美国的科学战略做出回应和调整。它探讨了全球地缘科技竞争与政策博弈。"
+ },
+ {
+  "time": "2026-10-21 18:32",
+  "source": "Nature",
+  "kind": "论文",
+  "field": "生命科学",
+  "title": "Butterfly wing patterns make motion hard to read",
+  "link": "https://www.nature.com/articles/d41586-026-03062-7",
+  "score": 3.0,
+  "summary": "研究发现蝴蝶翅膀的图案设计使得其运动轨迹难以被外界准确解读。这一机制为生物视觉和防卫策略提供了新见解。"
+ },
+ {
+  "time": "2026-10-21 18:32",
+  "source": "Nature",
+  "kind": "新闻",
+  "field": "生命科学",
+  "title": "Will this sleep-disorder drug be the next big blockbuster?",
+  "link": "https://www.nature.com/articles/d41586-026-03310-w",
+  "score": 3.0,
+  "summary": "文章探讨了一种睡眠障碍药物是否会成为下一个重磅畅销药物。这涉及神经科学领域的药物研发与市场前景。"
+ },
+ {
+  "time": "2026-10-21 18:32",
+  "source": "Nature Astronomy",
+  "kind": "论文",
+  "field": "天文与航天",
+  "title": "Lyman continuum escape during the onset of galactic winds in compact starbursts",
+  "link": "https://www.nature.com/articles/s41550-026-02999-z",
+  "score": 4.0,
+  "summary": "本研究观测了致密星爆星系中莱曼连续谱逃逸与星系风爆发的关联。它有助于理解早期宇宙中星系电离光子的逃逸机制。"
+ },
+ {
+  "time": "2026-10-21 18:32",
+  "source": "Nature Astronomy",
+  "kind": "论文",
+  "field": "天文与航天",
+  "title": "A spatial map of the atmospheric limb of a hot Jupiter",
+  "link": "https://www.nature.com/articles/s41550-026-02986-4",
+  "score": 4.0,
+  "summary": "研究团队绘制了热木星大气边缘的空间图谱。该成果增进了对系外行星大气结构和物理化学性质的理解。"
+ },
+ {
+  "time": "2026-10-21 18:32",
+  "source": "Nature Astronomy",
+  "kind": "论文",
+  "field": "天文与航天",
+  "title": "A ∧-like metallicity profile in the disk of the Sagittarius dwarf galaxy",
+  "link": "https://www.nature.com/articles/s41550-026-02996-2",
+  "score": 4.0,
+  "summary": "本研究发现了人马座矮星系盘中存在一个类似$\\Lambda$形状的金属性分布剖面。这为理解矮星系的演化和化学动力学提供了关键数据。"
+ },
+ {
+  "time": "2026-10-21 18:32",
+  "source": "Nature Astronomy",
+  "kind": "论文",
+  "field": "天文与航天",
+  "title": "Two families of multi-planet systems with distinct architectures and stellar hosts",
+  "link": "https://www.nature.com/articles/s41550-026-02990-8",
+  "score": 4.0,
+  "summary": "研究识别出两类具有截然不同结构和宿主恒星的多行星系统家族。该发现对行星系统的形成与演化理论具有重要意义。"
+ },
+ {
+  "time": "2026-10-21 18:32",
+  "source": "Nature Astronomy",
+  "kind": "新闻",
+  "field": "天文与航天",
+  "title": "Farewell NASA ADS",
+  "link": "https://www.nature.com/articles/s41550-026-03009-y",
+  "score": 3.0,
+  "summary": "文章宣告了NASA天文数据系统（ADS）的时代告别。这标志着天文学文献检索服务的重要历史更迭。"
+ },
+ {
+  "time": "2026-10-21 18:32",
+  "source": "Nature Astronomy",
+  "kind": "新闻",
+  "field": "天文与航天",
+  "title": "Transitioning from ADS to SciX to serve twenty-first century astronomy",
+  "link": "https://www.nature.com/articles/s41550-026-02997-1",
+  "score": 3.0,
+  "summary": "介绍了从传统ADS向SciX平台的过渡，以更好地服务21世纪的天文学研究。这对天文学界的文献与数据服务基础设施升级具有重要意义。"
+ },
+ {
+  "time": "2026-10-21 18:32",
+  "source": "Nature Astronomy",
+  "kind": "论文",
+  "field": "天文与航天",
+  "title": "On the coronal origin of magnetic switchbacks in the solar wind",
+  "link": "https://www.nature.com/articles/s41550-026-02928-0",
+  "score": 4.0,
+  "summary": "研究探讨了太阳风中磁场折返（magnetic switchbacks）的日冕起源。该成果增进了对太阳风加热和加速机制的理解。"
+ },
+ {
+  "time": "2026-10-21 18:32",
+  "source": "Nature Human Behaviour",
+  "kind": "论文",
+  "field": "心理与神经",
+  "title": "Refining a new movement by practicing it upside down",
+  "link": "https://www.nature.com/articles/s41562-026-02614-1",
+  "score": 3.0,
+  "summary": "研究表明通过倒过来练习可以精进一项新运动技能。这揭示了人类运动学习与神经认知控制的特殊机制。"
+ },
+ {
+  "time": "2026-10-21 18:32",
+  "source": "Nature Human Behaviour",
+  "kind": "论文",
+  "field": "技术与工程",
+  "title": "Use AI to heterogenize science",
+  "link": "https://www.nature.com/articles/s41562-026-02618-x",
+  "score": 4.0,
+  "summary": "文章提出利用人工智能来实现科学研究的异质化（heterogenize science）。这为防止科研同质化、推动创新提供了AI应用新视角。"
+ },
+ {
+  "time": "2026-10-21 18:32",
+  "source": "Nature Human Behaviour",
+  "kind": "论文",
+  "field": "其他",
+  "title": "The case for AI degrowth",
+  "link": "https://www.nature.com/articles/s41562-026-02617-y",
+  "score": 3.0,
+  "summary": "文章提出了关于AI“去增长”（degrowth）的论点。它反思了无节制发展人工智能对资源和社会的长期影响。"
+ },
+ {
+  "time": "2026-10-21 18:32",
+  "source": "Nature Human Behaviour",
+  "kind": "论文",
+  "field": "心理与神经",
+  "title": "Motor abstraction training generalizes to the refinement of specific movement patterns",
+  "link": "https://www.nature.com/articles/s41562-026-02597-z",
+  "score": 3.0,
+  "summary": "研究发现运动抽象训练能够泛化并促进特定运动模式的精进。这拓展了运动控制与认知泛化领域的理论认识。"
+ },
+ {
+  "time": "2026-10-21 18:32",
+  "source": "Nature Human Behaviour",
+  "kind": "论文",
+  "field": "心理与神经",
+  "title": "Trait judgements of faces using a task without word labels",
+  "link": "https://www.nature.com/articles/s41562-026-02605-2",
+  "score": 3.0,
+  "summary": "本研究采用无文字标签的任务评估了对人脸的特质判断。该实验设计避免了语言标签对面孔认知和心理评判的干扰。"
+ },
+ {
+  "time": "2026-10-21 18:32",
+  "source": "Nature Human Behaviour",
+  "kind": "论文",
+  "field": "其他",
+  "title": "Petition style changes with AI writing support but outcomes do not improve",
+  "link": "https://www.nature.com/articles/s41562-026-02579-1",
+  "score": 3.0,
+  "summary": "研究发现，在AI写作支持下请愿书的风格发生了改变，但最终的结果并没有显著改善。这揭示了生成式AI工具在实际社会倡议中的局限性。"
+ },
+ {
+  "time": "2026-10-21 18:32",
+  "source": "Science Advances",
+  "kind": "论文",
+  "field": "生命科学",
+  "title": "Latent effector capacity governs reversible T cell exhaustion: A theoretical mathematical model of PD-1 blockade response",
+  "link": "https://www.science.org/doi/abs/10.1126/sciadv.aei0840?af=R",
+  "score": 3.0,
+  "summary": "该研究构建了一个关于PD-1阻断反应的理论数学模型，探讨了潜在效应细胞能力如何调控可逆的T细胞耗竭。该模型为理解免疫疗法机制提供了理论支持。"
+ },
+ {
+  "time": "2026-10-21 18:32",
+  "source": "Science Advances",
+  "kind": "论文",
+  "field": "心理与神经",
+  "title": "MFN2-associated astrocyte dysfunction contributes to neuronal hyperexcitability and depressive-like behaviors",
+  "link": "https://www.science.org/doi/abs/10.1126/sciadv.aed8795?af=R",
+  "score": 3.0,
+  "summary": "研究发现MFN2相关的星形胶质细胞功能障碍会导致神经元过度兴奋和抑郁样行为。这揭示了星形胶质细胞在神经精神疾病中的新机制。"
+ },
+ {
+  "time": "2026-10-21 18:32",
+  "source": "Science Advances",
+  "kind": "论文",
+  "field": "生命科学",
+  "title": "Cell-intrinsic steroidogenesis regulates mast cell function",
+  "link": "https://www.science.org/doi/abs/10.1126/sciadv.aea0260?af=R",
+  "score": 3.0,
+  "summary": "该研究表明细胞内源性类固醇生成能够调节肥大细胞的功能。这一发现增进了对免疫细胞代谢与功能调控的理解。"
+ },
+ {
+  "time": "2026-10-21 18:32",
+  "source": "Science Advances",
+  "kind": "论文",
+  "field": "技术与工程",
+  "title": "Local control of Cre-regulated genetic modeling in vivo using wireless implantable optoelectronics",
+  "link": "https://www.science.org/doi/abs/10.1126/sciadv.aed1014?af=R",
+  "score": 4.0,
+  "summary": "该研究开发了一种利用无线植入式光电电子学在体内局部控制Cre调节基因建模的技术。这为活体精确基因操控提供了强有力的工具。"
+ },
+ {
+  "time": "2026-10-21 18:32",
+  "source": "Science Advances",
+  "kind": "论文",
+  "field": "物理与化学",
+  "title": "Kinetic-driven microphase separation and vitrification of crowded hydrogels with associative bonds",
+  "link": "https://www.science.org/doi/abs/10.1126/sciadv.aed8808?af=R",
+  "score": 3.0,
+  "summary": "研究揭示了具有缔合键的拥挤水凝胶的动力学驱动微相分离与玻璃化过程。该成果加深了对复杂高分子体系物理性质的理解。"
+ },
+ {
+  "time": "2026-10-21 18:32",
+  "source": "Science Advances",
+  "kind": "论文",
+  "field": "生命科学",
+  "title": "Immune biomarkers of response and resistance to ipilimumab and nivolumab in metastatic castration-resistant prostate cancer",
+  "link": "https://www.science.org/doi/abs/10.1126/sciadv.aee8730?af=R",
+  "score": 3.0,
+  "summary": "该研究鉴定了转移性去势抵抗性前列腺癌对ipilimumab和nivolumab产生反应及耐药的免疫生物标志物。这有助于优化前列腺癌的免疫治疗策略。"
+ },
+ {
+  "time": "2026-10-21 18:32",
+  "source": "Science Advances",
+  "kind": "论文",
+  "field": "生命科学",
+  "title": "Polyclonal breast milk–derived secretory IgA confers broad antiviral protection against multiple respiratory viruses",
+  "link": "https://www.science.org/doi/abs/10.1126/sciadv.aef3207?af=R",
+  "score": 4.0,
+  "summary": "研究发现多克隆母乳来源的分泌型IgA对多种呼吸道病毒提供了广泛的抗病毒保护。这一发现凸显了母乳在婴儿免疫防御中的重要作用。"
+ },
+ {
+  "time": "2026-10-21 18:32",
+  "source": "Science Advances",
+  "kind": "论文",
+  "field": "地球与气候",
+  "title": "Ice nucleation by kaolinite: Morphology shapes the size dependence of ice nucleation active sites on dust particles",
+  "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeg1206?af=R",
+  "score": 3.0,
+  "summary": "该研究探讨了高岭石的冰成核机制，发现形貌决定了尘埃颗粒上冰成核活性位点的大小依赖性。这有助于更好地理解大气云物理过程。"
+ },
+ {
+  "time": "2026-10-21 18:32",
+  "source": "Science Advances",
+  "kind": "技术与工程",
+  "field": "技术与工程",
+  "title": "From scrap to prime: Designing high-performance alloys from dirty feedstocks with machine learning",
+  "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeg9183?af=R",
+  "score": 4.0,
+  "summary": "研究展示了利用机器学习从劣质原料（废料）中设计高性能合金的方法。该方法为废旧金属的循环利用和绿色材料设计开辟了新途径。"
+ },
+ {
+  "time": "2026-10-21 18:32",
+  "source": "Science Advances",
+  "kind": "论文",
+  "field": "生命科学",
+  "title": "Integrative multi-omics reveals CUL4B as a modulator of macrophage pyroptosis and innate defense against Staphylococcus aureus",
+  "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeh4023?af=R",
+  "score": 3.0,
+  "summary": "通过整合多组学分析，研究揭示了CUL4B作为巨噬细胞焦亡及对抗金黄色葡萄球菌先天防御的调控因子。这为阐明宿主抗感染免疫机制提供了新线索。"
+ },
+ {
+  "time": "2026-10-21 18:32",
+  "source": "Science Advances",
+  "kind": "论文",
+  "field": "心理与神经",
+  "title": "Peripheral nerve injury alters metabolic function and neuronal excitability through the Lin28/let-7 pathway",
+  "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeh6791?af=R",
+  "score": 3.0,
+  "summary": "研究发现周围神经损伤通过Lin28/let-7途径改变代谢功能和神经元兴奋性。这深化了对神经损伤后病理生理机制的认识。"
+ },
+ {
+  "time": "2026-10-21 18:32",
+  "source": "Science Advances",
+  "kind": "论文",
+  "field": "物理与化学",
+  "title": "Bisulfate-mediated selective methane oxidation under mild aqueous conditions",
+  "link": "https://www.science.org/doi/abs/10.1126/sciadv.aei3285?af=R",
+  "score": 4.0,
+  "summary": "该研究实现了在温和水相条件下通过硫酸氢盐介导的选择性甲烷氧化。这为温室气体的化学转化和高附加值利用提供了新方法。"
+ },
+ {
+  "time": "2026-10-21 18:32",
+  "source": "PNAS",
+  "kind": "新闻",
+  "field": "生命科学",
+  "title": "Vaccine data suggest immunity could mitigate dementia. What’s the biology behind these apparent effects?",
+  "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2633554123?af=R",
+  "score": 3.0,
+  "summary": "疫苗数据表明免疫力可能减轻痴呆症症状，文章探讨了这些表面现象背后的生物学机制。这引发了对疫苗多效性的科学关注。"
+ },
+ {
+  "time": "2026-10-21 18:32",
+  "source": "PNAS",
+  "kind": "论文",
+  "field": "物理与化学",
+  "title": "Quantum Fisher information and photon statistics from shift current shot noise",
+  "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2611254123?af=R",
+  "score": 3.0,
+  "summary": "该研究探讨了来自移位电流散粒噪声的量子费舍尔信息和光子统计。这对于理解量子光学与输运现象具有理论意义。"
+ },
+ {
+  "time": "2026-10-21 18:32",
+  "source": "PNAS",
+  "kind": "论文",
+  "field": "地球与气候",
+  "title": "Fault-controlled natural hydrogen reservoirs as underground hydrogen storage sites",
+  "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2617910123?af=R",
+  "score": 4.0,
+  "summary": "研究评估了断层控制的天然氢气储层作为地下氢气储存场所的潜力。这为寻找清洁能源储藏和未来能源转型提供了重要地球科学依据。"
+ },
+ {
+  "time": "2026-10-21 18:32",
+  "source": "PNAS",
+  "kind": "论文",
+  "field": "生命科学",
+  "title": "Continuous UV irradiation played an inconclusive role in selecting the canonical genetic alphabet",
+  "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2602433123?af=R",
+  "score": 3.0,
+  "summary": "研究表明持续的紫外线照射在选择规范遗传字母表中的作用并非决定性的。这一发现对生命起源中遗传密码的选择机制提出了新的思考。"
+ },
+ {
+  "time": "2026-10-21 18:32",
+  "source": "PNAS",
+  "kind": "论文",
+  "field": "地球与气候",
+  "title": "Deep learning of fossil pollen morphology reveals 25,000 y of ecological change in eastern African grasslands",
+  "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2607372123?af=R",
+  "score": 4.0,
+  "summary": "利用深度学习分析化石花粉形态，研究揭示了东非草原25000年以来的生态变化。该技术展示了AI在古生态学研究中的强大应用潜力。"
+ },
+ {
+  "time": "2026-10-21 18:32",
+  "source": "PNAS",
+  "kind": "论文",
+  "field": "地球与气候",
+  "title": "A 2,623-year temperature reconstruction from the Colorado Rocky Mountains reveals warm and cool droughts",
+  "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2612779123?af=R",
+  "score": 3.0,
+  "summary": "基于科罗拉多落基山脉重建了长达2623年的温度序列，揭示了历史上的温暖与凉爽干旱期。该研究为长期气候变化和水文干旱规律提供了高分辨率数据。"
+ },
+ {
+  "time": "2026-10-21 18:32",
+  "source": "PNAS",
+  "kind": "论文",
+  "field": "物理与化学",
+  "title": "Extended fractional Hofstadter states at high field in twisted bilayer graphene above the magic angle",
+  "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2602080123?af=R",
+  "score": 3.0,
+  "summary": "研究在魔角之上扭曲双层石墨烯的高磁场下观测到了扩展的分数霍夫斯塔德态。这丰富了对二维量子材料中强关联电子态的理解。"
+ },
+ {
+  "time": "2026-10-21 18:32",
+  "source": "PNAS",
+  "kind": "论文",
+  "field": "生命科学",
+  "title": "Formation of a swelling gel underlies a morphological transition in Bacillus subtilis biofilms",
+  "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2608188123?af=R",
+  "score": 3.0,
+  "summary": "研究发现溶胀凝胶的形成是枯草芽孢杆菌生物膜形态转变的基础。这揭示了微生物生物膜动态发育的生物物理机制。"
+ },
+ {
+  "time": "2026-10-21 18:32",
+  "source": "PNAS",
+  "kind": "论文",
+  "field": "天文与航天",
+  "title": "An unidentified reservoir of comet 81P/Wild 2 chondrules",
+  "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2612680123?af=R",
+  "score": 3.0,
+  "summary": "该研究探讨了彗星81P/Wild 2中未被识别的球粒陨石储库来源。这为太阳系早期物质的形成与演化提供了线索。"
+ },
+ {
+  "time": "2026-10-21 18:32",
+  "source": "arXiv astro-ph",
+  "kind": "预印本",
+  "field": "天文与航天",
+  "title": "Supermassive Black Hole Winds in X-rays -- SUBWAYS. VI. Interplay between the soft X-ray excess and ultra-fast outflows",
+  "link": "https://arxiv.org/abs/2610.26936",
+  "score": 3.0,
+  "summary": "基于SUBWAYS项目X射线观测，研究分析了超大质量黑洞风中软X射线超额与超快外流之间的相互作用。这加深了对活动星系核反馈机制的理解。"
+ },
+ {
+  "time": "2026-10-21 18:32",
+  "source": "arXiv astro-ph",
+  "kind": "预印本",
+  "field": "天文与航天",
+  "title": "Gamma-ray Bursts as Cosmological Probes Calibrated with Strongly Lensed Quasars and Neural Networks",
+  "link": "https://arxiv.org/abs/2610.27009",
+  "score": 3.0,
+  "summary": "研究探讨了利用强引力透镜类星体和神经网络校准伽马射线暴作为宇宙学探针的可行性。该方法有助于更精确地限制宇宙学参数。"
+ },
+ {
+  "time": "2026-10-21 18:32",
+  "source": "arXiv astro-ph",
+  "kind": "预印本",
+  "field": "天文与航天",
+  "title": "The science case for an in-situ measurement platform in the Venus clouds",
+  "link": "https://arxiv.org/abs/2610.27038",
+  "score": 3.0,
+  "summary": "本文探讨了在金星云层中建立原位测量平台的科学案例。它阐述了该平台对于研究金星大气及潜在环境的重要意义。"
+ },
+ {
+  "time": "2026-10-21 18:32",
+  "source": "arXiv astro-ph",
+  "kind": "预印本",
+  "field": "天文与航天",
+  "title": "Graph Neural Networks for Astrophysics and Cosmology",
+  "link": "https://arxiv.org/abs/2610.27051",
+  "score": 3.0,
+  "summary": "本文综述了图神经网络（GNN）在天体物理学和宇宙学中的应用。这类方法有助于处理复杂的空间数据和模拟天体系统。"
+ },
+ {
+  "time": "2026-10-21 18:32",
+  "source": "arXiv astro-ph",
+  "kind": "预印本",
+  "field": "天文与航天",
+  "title": "Planets surviving common envelope evolution should be rare, massive, and orbit very close to their host star",
+  "link": "https://arxiv.org/abs/2610.27055",
+  "score": 3.0,
+  "summary": "研究表明，在共同包层演化中幸存下来的行星应该非常罕见、质量较大，并且在极近的轨道上绕其主星运行。这一发现加深了对恒星与行星系统晚期演化的理解。"
+ },
+ {
+  "time": "2026-10-21 18:32",
+  "source": "arXiv astro-ph",
+  "kind": "预印本",
+  "field": "天文与航天",
+  "title": "How does a galaxy's quenching probability depend on its black hole's mass?",
+  "link": "https://arxiv.org/abs/2610.27061",
+  "score": 3.0,
+  "summary": "本文探讨了星系的猝灭概率与其中心黑洞质量之间的依赖关系。研究结果有助于揭示超大质量黑洞在星系演化中所扮演的反馈角色。"
+ },
+ {
+  "time": "2026-10-21 18:32",
+  "source": "arXiv astro-ph",
+  "kind": "预印本",
+  "field": "天文与航天",
+  "title": "Metal-poor molecular clouds in dwarf galaxies at parsec-scale resolution",
+  "link": "https://arxiv.org/abs/2610.27064",
+  "score": 3.0,
+  "summary": "本文在秒差距（parsec）尺度上研究了矮星系中的贫金属分子云。这对于理解低金属度环境下恒星形成的物理机制具有重要价值。"
  }
 ]
