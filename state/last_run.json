@@ -1,0 +1,21 @@
+{
+ "time": "2026-10-21 18:28",
+ "sources": {
+  "NASA": 10,
+  "ESA": 12,
+  "Science 新闻": 10,
+  "Nature": 12,
+  "Nature Astronomy": 8,
+  "Nature Human Behaviour": 8,
+  "Science Advances": 12,
+  "PNAS": 12,
+  "arXiv astro-ph": 12
+ },
+ "new_items": 96,
+ "llm_errors": [
+  "Expecting ',' delimiter: line 191 column 3 (char 4225)",
+  "Invalid \\escape: line 21 column 44 (char 490)"
+ ],
+ "kept": 48,
+ "raindrop": "失败: Raindrop 401: {\"result\":false,\"status\":401,\"errorMessage\":\"Incorrect access_token\",\"auth\":false}"
+}
