@@ -1,7 +1,7 @@
 """科学快讯与论文:每小时读取权威来源的 RSS(轻量,无新条目则直接结束)。
 新条目交给 LLM 打分和分类:
-  - 分数 >= 3  → 自动存入 Raindrop 对应分类收藏夹(带类型、来源标签和中文摘要)
-  - 分数 >= 4  → 同时推送到 Bark
+  - 分数 >= 4  → 自动存入 Raindrop 对应分类收藏夹(带类型、来源标签和中文摘要)
+  - 分数 >= 5  → 同时推送到 Bark
 首次运行(没有 state/news_seen.json)只入库 Raindrop,不推送 Bark。
 运行结果写入 state/last_run.json,方便排查。"""
 import re, json, os, datetime as dt, requests, xml.etree.ElementTree as ET
@@ -27,7 +27,7 @@ SOURCES = [
 ]
 
 PROMPT = """你是科学新闻与文献编辑。下列条目可能是新闻、期刊论文或预印本。对每条给出:
-- score(0-5):5=极其重要,4=重要(推送),3=值得收藏阅读,2及以下=不要。重大发现、航天任务成败、重要观测成果、影响领域的论文或综述给高分;产品宣传、评论、旧闻、常规增量论文给低分;预印本只有结论特别重要才给4以上。
+- score(0-5):5=极其重要(推送通知),4=重要(收藏进 Raindrop),3及以下=不要。重大发现、航天任务成败、重要观测成果、影响领域的论文或综述给高分;产品宣传、评论、旧闻、常规增量论文给低分;预印本只有结论特别重要才给4以上。
 - kind:"新闻"、"论文"、"综述"或"预印本"
 - field:只能从这几个里选一个:天文与航天、物理与化学、生命科学、心理与神经、地球与气候、技术与工程、其他
 - summary:中文2-3句,说明发生了什么或发现了什么、为什么重要。只依据给出的内容,不编造数据。
@@ -82,7 +82,7 @@ def score(items, status):
                     i, s = int(a["i"]), float(a.get("score", 0))
                 except Exception:
                     continue
-                if s >= 3 and 0 <= i < len(chunk):
+                if s >= 4 and 0 <= i < len(chunk):
                     f = a.get("field") if a.get("field") in FIELDS else "其他"
                     keep.append(dict(chunk[i], score=s, kind=str(a.get("kind", "新闻")), field=f,
                                      summary=str(a.get("summary", ""))[:300]))
@@ -142,24 +142,27 @@ def main():
     keep = score(items, status) if items else []
     status["kept"] = len(keep)
 
+    rd_ok = True
     if keep:
         to_raindrop(keep, status)
+        rd_ok = str(status.get("raindrop", "")).startswith("ok")
+    if keep and rd_ok:
         store = Path("state/news.json")
         hist = json.loads(store.read_text(encoding="utf-8")) if store.exists() else []
         hist = (hist + [{"time": status["time"], "source": k["source"], "kind": k["kind"], "field": k["field"],
                          "title": k["title"], "link": k["link"], "score": k["score"], "summary": k["summary"]}
                         for k in keep])[-500:]
         store.write_text(json.dumps(hist, ensure_ascii=False, indent=1), encoding="utf-8")
-        push_items = [k for k in keep if k["score"] >= 4]
+        push_items = [k for k in keep if k["score"] >= 5]
         if push_items and not first:
             body = "\n\n".join(f"【{k['kind']}·{k['source']}】{k['title'][:100]}\n{k['summary']}\n{k['link']}" for k in push_items)
             push_long(f"科学快讯 {len(push_items)} 条", body, "", group="科学快讯")
             status["pushed"] = len(push_items)
 
     # 评分失败的批次不记入 seen,下次重试;其余全部记入
-    if not status.get("llm_errors"):
+    if not status.get("llm_errors") and rd_ok:
         p.write_text(json.dumps(sorted(seen | got)[-5000:], ensure_ascii=False), encoding="utf-8")
-    if items or status.get("llm_errors"):
+    if items or status.get("llm_errors") or not rd_ok:
         Path("state/last_run.json").write_text(json.dumps(status, ensure_ascii=False, indent=1), encoding="utf-8")
     print(json.dumps(status, ensure_ascii=False))
 
