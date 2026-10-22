@@ -1,5 +1,5 @@
 {
- "time": "2026-10-22 06:14",
+ "time": "2026-10-22 09:25",
  "sources": {
   "NASA": 10,
   "ESA": 12,
@@ -11,8 +11,6 @@
   "PNAS": 12,
   "arXiv astro-ph": 12
  },
- "new_items": 17,
- "kept": 16,
- "raindrop": "失败: Raindrop 401: {\"result\":false,\"status\":401,\"errorMessage\":\"Incorrect access_token\",\"auth\":false}",
- "pushed": 4
+ "new_items": 1,
+ "kept": 0
 }
