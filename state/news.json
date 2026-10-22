@@ -288,5 +288,25 @@
   "link": "https://www.nature.com/articles/s41586-026-11312-x",
   "score": 4.0,
   "summary": "研究人员报道了一种由电流驱动的分子机器，其表现出旋转增强的电导特性。这一发现在分子电子学和纳米技术领域具有重要意义。"
+ },
+ {
+  "time": "2026-10-23 06:14",
+  "source": "Science 新闻",
+  "kind": "新闻",
+  "field": "生命科学",
+  "title": "First human death linked to recently discovered livestock virus in Europe",
+  "link": "https://www.science.org/content/article/first-human-death-linked-recently-discovered-livestock-virus-europe",
+  "score": 4.0,
+  "summary": "欧洲报道了首例与最近发现的一种家畜病毒相关的人类死亡病例。这一事件标志着该病毒对人类健康构成了新的潜在威胁，引发科学界的关注。"
+ },
+ {
+  "time": "2026-10-23 06:14",
+  "source": "Nature",
+  "kind": "论文",
+  "field": "生命科学",
+  "title": "A first for CRISPR: powerful prime editing alters DNA directly in the human body",
+  "link": "https://www.nature.com/articles/d41586-026-03371-x",
+  "score": 5.0,
+  "summary": "研究实现了CRISPR技术的重要突破，首次在人体内利用强大的先导编辑（prime editing）技术直接修改DNA。这标志着基因疗法向临床精准治疗迈出了历史性的一步。"
  }
 ]
