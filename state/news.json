@@ -268,5 +268,25 @@
   "link": "https://arxiv.org/abs/2610.28739",
   "score": 4.0,
   "summary": "该研究指出先验体积效应会放大脉冲星计时阵列（PTA）中的引力波背景。这对于正确解释引力波背景数据和修正统计偏差具有重要方法论意义。"
+ },
+ {
+  "time": "2026-10-23 02:27",
+  "source": "Nature",
+  "kind": "新闻",
+  "field": "其他",
+  "title": "Can maths survive AI? Fields medallist Terence Tao calls for a ‘Maths 2.0’ world",
+  "link": "https://www.nature.com/articles/d41586-026-03389-1",
+  "score": 4.0,
+  "summary": "菲尔兹奖得主陶哲轩呼吁数学界构建一个适应AI时代的“数学2.0”世界。这对于探讨人工智能如何改变基础科学研究具有重要的思想引领意义。"
+ },
+ {
+  "time": "2026-10-23 02:27",
+  "source": "Nature",
+  "kind": "论文",
+  "field": "物理与化学",
+  "title": "Current-Driven Molecular Machine with Rotation-Enhanced Conductance",
+  "link": "https://www.nature.com/articles/s41586-026-11312-x",
+  "score": 4.0,
+  "summary": "研究人员报道了一种由电流驱动的分子机器，其表现出旋转增强的电导特性。这一发现在分子电子学和纳米技术领域具有重要意义。"
  }
 ]
