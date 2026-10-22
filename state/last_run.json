@@ -1,0 +1,17 @@
+{
+ "time": "2026-10-22 21:59",
+ "sources": {
+  "NASA": 10,
+  "ESA": 12,
+  "Science 新闻": 10,
+  "Nature": 12,
+  "Nature Astronomy": 8,
+  "Nature Human Behaviour": 8,
+  "Science Advances": 12,
+  "PNAS": 12,
+  "arXiv astro-ph": 12
+ },
+ "new_items": 96,
+ "kept": 27,
+ "raindrop": "ok, 添加 27 条"
+}

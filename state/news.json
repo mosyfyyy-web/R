@@ -1,0 +1,272 @@
+[
+ {
+  "time": "2026-10-22 21:59",
+  "source": "ESA",
+  "kind": "新闻",
+  "field": "天文与航天",
+  "title": "MMX lifts off to Mars’s moon Phobos",
+  "link": "https://www.esa.int/ESA_Multimedia/Images/2026/10/MMX_lifts_off_to_Mars_s_moon_Phobos",
+  "score": 4.0,
+  "summary": "MMX（火星卫星探测计划）成功发射前往火星的卫星火卫一。这是一项重大的深空探测航天任务。"
+ },
+ {
+  "time": "2026-10-22 21:59",
+  "source": "ESA",
+  "kind": "新闻",
+  "field": "天文与航天",
+  "title": "Solar Orbiter tracks origin of mysterious magnetic switchbacks",
+  "link": "https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_tracks_origin_of_mysterious_magnetic_switchbacks",
+  "score": 4.0,
+  "summary": "太阳轨道飞行器（Solar Orbiter）追踪到了神秘太阳磁场折流（switchbacks）的起源。这对于理解太阳风动力学具有重要科学价值。"
+ },
+ {
+  "time": "2026-10-22 21:59",
+  "source": "Science 新闻",
+  "kind": "新闻",
+  "field": "物理与化学",
+  "title": "Iron at Earth’s heart may take a surprising form",
+  "link": "https://www.science.org/content/article/iron-earth-s-heart-may-take-surprising-form",
+  "score": 4.0,
+  "summary": "Science报道称，地球核心的铁可能采取一种令人惊讶的新形态。这对于理解地球内部深处的物理状态和地核演化具有重要意义。"
+ },
+ {
+  "time": "2026-10-22 21:59",
+  "source": "Science 新闻",
+  "kind": "新闻",
+  "field": "生命科学",
+  "title": "With blood test looming, government puts $41 million into clinical trials to ward off Alzheimer’s disease",
+  "link": "https://www.science.org/content/article/blood-test-looming-government-puts-41-million-clinical-trials-ward-alzheimer-s-disease",
+  "score": 4.0,
+  "summary": "随着血液检测技术的临近，美国政府投入4100万美元开展临床试验以预防阿尔茨海默病。这对该疾病的早期筛查和临床防治具有重大推动作用。"
+ },
+ {
+  "time": "2026-10-22 21:59",
+  "source": "Science 新闻",
+  "kind": "新闻",
+  "field": "生命科学",
+  "title": "As Ebola epidemic rages, Congo bets on high-stakes ‘hope’ vaccine trial",
+  "link": "https://www.science.org/content/article/ebola-epidemic-rages-congo-bets-high-stakes-hope-vaccine-trial",
+  "score": 4.0,
+  "summary": "在埃博拉疫情肆虐之际，刚果（金）押注高风险的“希望”疫苗临床试验。对控制致命传染病爆发具有重要的公共卫生价值。"
+ },
+ {
+  "time": "2026-10-22 21:59",
+  "source": "Science 新闻",
+  "kind": "新闻",
+  "field": "生命科学",
+  "title": "This ‘glue gun ant’ fires sticky webs at its enemies",
+  "link": "https://www.science.org/content/article/glue-gun-ant-fires-sticky-webs-its-enemies",
+  "score": 4.0,
+  "summary": "科学家发现了一种会向敌人发射粘性蛛网的“胶枪蚁”。丰富了对动物行为学和昆虫生存策略的认知。"
+ },
+ {
+  "time": "2026-10-22 21:59",
+  "source": "Nature",
+  "kind": "论文",
+  "field": "物理与化学",
+  "title": "De novo design of enantioselective artificial metalloenzyme photocatalysts",
+  "link": "https://www.nature.com/articles/s41586-026-11317-6",
+  "score": 4.0,
+  "summary": "研究人员实现了对对映选择性人工金属酶光催化剂的从头设计。该成果拓展了人工酶催化和绿色合成的边界。"
+ },
+ {
+  "time": "2026-10-22 21:59",
+  "source": "Nature",
+  "kind": "新闻",
+  "field": "天文与航天",
+  "title": "Surprise! White dwarf stars come in a rainbow of colours",
+  "link": "https://www.nature.com/articles/d41586-026-03319-1",
+  "score": 4.0,
+  "summary": "研究发现白矮星并非单一色调，而是呈现出丰富多彩的颜色。这一观测结果增进了人类对恒星演化终点多样性的理解。"
+ },
+ {
+  "time": "2026-10-22 21:59",
+  "source": "Nature",
+  "kind": "论文",
+  "field": "地球与气候",
+  "title": "An AI tool improves weather forecasts up to a month ahead",
+  "link": "https://www.nature.com/articles/d41586-026-03077-0",
+  "score": 5.0,
+  "summary": "一项研究表明，新型人工智能工具可以将天气预报的提前量提升至一个月。这显著增强了人类对长期气象灾害的预测和应对能力。"
+ },
+ {
+  "time": "2026-10-22 21:59",
+  "source": "Nature",
+  "kind": "论文",
+  "field": "心理与神经",
+  "title": "Teen depression and anxiety predicted by childhood brain development",
+  "link": "https://www.nature.com/articles/d41586-026-03357-9",
+  "score": 4.0,
+  "summary": "研究发现，儿童时期的脑部发育可以预测青少年时期的抑郁和焦虑风险。该发现为早期心理健康干预提供了神经生物学依据。"
+ },
+ {
+  "time": "2026-10-22 21:59",
+  "source": "Nature",
+  "kind": "新闻",
+  "field": "地球与气候",
+  "title": "Global emissions slow — but world hurtles towards 2 °C of warming",
+  "link": "https://www.nature.com/articles/d41586-026-03355-x",
+  "score": 4.0,
+  "summary": "全球碳排放增速放缓，但世界仍朝着升温2摄氏度的目标快速推进。该报道警示全球气候行动仍需进一步加速。"
+ },
+ {
+  "time": "2026-10-22 21:59",
+  "source": "Nature",
+  "kind": "论文",
+  "field": "心理与神经",
+  "title": "Huge mapping study reveals how your brain tracks what your body is feeling",
+  "link": "https://www.nature.com/articles/d41586-026-03334-2",
+  "score": 4.0,
+  "summary": "一项大型绘图研究揭示了大脑如何追踪身体的各种感觉。该成果加深了人类对体感皮层功能组织架构的理解。"
+ },
+ {
+  "time": "2026-10-22 21:59",
+  "source": "Nature",
+  "kind": "论文",
+  "field": "物理与化学",
+  "title": "Plastics embedded with enzymes degrade readily in the sea",
+  "link": "https://www.nature.com/articles/d41586-026-03282-x",
+  "score": 4.0,
+  "summary": "研究表明，嵌入酶的塑料能够在海水中轻易降解。这为解决日益严重的海洋塑料污染问题提供了一种新材料方案。"
+ },
+ {
+  "time": "2026-10-22 21:59",
+  "source": "Nature Astronomy",
+  "kind": "论文",
+  "field": "天文与航天",
+  "title": "A self-shadowing black hole accretion disk at sub-Eddington luminosities",
+  "link": "https://www.nature.com/articles/s41550-026-03005-2",
+  "score": 4.0,
+  "summary": "天文学家在亚爱丁顿光度下观测到了一个自我遮蔽的黑洞吸积盘。这为研究黑洞及其周围物质的物理机制提供了新数据。"
+ },
+ {
+  "time": "2026-10-22 21:59",
+  "source": "Nature Astronomy",
+  "kind": "论文",
+  "field": "天文与航天",
+  "title": "Lyman continuum escape during the onset of galactic winds in compact starbursts",
+  "link": "https://www.nature.com/articles/s41550-026-02999-z",
+  "score": 4.0,
+  "summary": "研究探讨了致密星爆星系中星系风爆发时莱曼连续光谱的逃逸现象。这有助于解释早期宇宙的再电离过程。"
+ },
+ {
+  "time": "2026-10-22 21:59",
+  "source": "Nature Astronomy",
+  "kind": "论文",
+  "field": "天文与航天",
+  "title": "A spatial map of the atmospheric limb of a hot Jupiter",
+  "link": "https://www.nature.com/articles/s41550-026-02986-4",
+  "score": 4.0,
+  "summary": "本研究绘制了热木星大气边缘的空间图谱。该成果增进了对系外行星大气结构和气候动态的认识。"
+ },
+ {
+  "time": "2026-10-22 21:59",
+  "source": "Nature Astronomy",
+  "kind": "论文",
+  "field": "天文与航天",
+  "title": "A ∧-like metallicity profile in the disk of the Sagittarius dwarf galaxy",
+  "link": "https://www.nature.com/articles/s41550-026-02996-2",
+  "score": 4.0,
+  "summary": "观测发现在人马座矮星系的盘中存在一个类似$\\Lambda$形的金属丰度分布。这对理解矮星系的化学演化历史具有重要意义。"
+ },
+ {
+  "time": "2026-10-22 21:59",
+  "source": "Nature Astronomy",
+  "kind": "论文",
+  "field": "天文与航天",
+  "title": "Two families of multi-planet systems with distinct architectures and stellar hosts",
+  "link": "https://www.nature.com/articles/s41550-026-02990-8",
+  "score": 4.0,
+  "summary": "研究识别出了两类具有截然不同架构和宿主恒星的多行星系统家族。这为行星系统的形成理论提供了新的观测约束。"
+ },
+ {
+  "time": "2026-10-22 21:59",
+  "source": "Nature Astronomy",
+  "kind": "新闻",
+  "field": "天文与航天",
+  "title": "Transitioning from ADS to SciX to serve twenty-first century astronomy",
+  "link": "https://www.nature.com/articles/s41550-026-02997-1",
+  "score": 4.0,
+  "summary": "详细介绍了从传统ADS向SciX平台的过渡，旨在更好地服务21世纪的天文学研究。这代表了天文文献检索与数据服务的重要升级。"
+ },
+ {
+  "time": "2026-10-22 21:59",
+  "source": "Science Advances",
+  "kind": "论文",
+  "field": "物理与化学",
+  "title": "Towards intense single-digit attosecond pulses with a 100-mJ-class mid-infrared sub-cycle laser",
+  "link": "https://www.science.org/doi/abs/10.1126/sciadv.aed5357?af=R",
+  "score": 4.0,
+  "summary": "该研究致力于利用100 mJ级中红外亚周期激光产生强度高的单位数阿秒脉冲。这为探索超快物理过程提供了更强大的光源工具。"
+ },
+ {
+  "time": "2026-10-22 21:59",
+  "source": "Science Advances",
+  "kind": "论文",
+  "field": "心理与神经",
+  "title": "Predicting upcoming visual features during eye movements yields scene representations aligned with human visual cortex",
+  "link": "https://www.science.org/doi/abs/10.1126/sciadv.aee1955?af=R",
+  "score": 4.0,
+  "summary": "该研究发现眼动过程中对即将到来的视觉特征的预测，会产生与人类视觉皮层对齐的场景表征。这加深了对视觉感知和眼动控制神经机制的理解。"
+ },
+ {
+  "time": "2026-10-22 21:59",
+  "source": "Science Advances",
+  "kind": "论文",
+  "field": "技术与工程",
+  "title": "Scentronic: An artificial intelligence–assisted olfactory interface for remote odor sharing and transmission",
+  "link": "https://www.science.org/doi/abs/10.1126/sciadv.aee9266?af=R",
+  "score": 4.0,
+  "summary": "该研究开发了一种名为Scentronic的人工智能辅助嗅觉接口，用于远程气味共享与传输。该技术打破了传统多媒体交互的局限，拓展了远程感官体验的边界。"
+ },
+ {
+  "time": "2026-10-22 21:59",
+  "source": "PNAS",
+  "kind": "论文",
+  "field": "心理与神经",
+  "title": "Understanding consciousness (biological and artificial) as a society of self-schemas",
+  "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2628598123?af=R",
+  "score": 4.0,
+  "summary": "该研究将生物和人工意识理解为自我图式的社会，为探讨意识的本质提供了跨学科的新理论框架。"
+ },
+ {
+  "time": "2026-10-22 21:59",
+  "source": "arXiv astro-ph",
+  "kind": "预印本",
+  "field": "天文与航天",
+  "title": "A Unified Model for the Gravitational Wave Background and Quasar Luminosity Functions",
+  "link": "https://arxiv.org/abs/2610.28680",
+  "score": 4.0,
+  "summary": "该预印本提出了一个关于引力波背景和类星体光度函数的统一模型。这有助于将宇宙学大尺度观测与超大质量黑洞演化联系起来。"
+ },
+ {
+  "time": "2026-10-22 21:59",
+  "source": "arXiv astro-ph",
+  "kind": "预印本",
+  "field": "天文与航天",
+  "title": "Chemical abundance patterns at z=1-7: Carbon, Nitrogen, Neon, Sulphur, and Argon abundances from JWST spectroscopy",
+  "link": "https://arxiv.org/abs/2610.28717",
+  "score": 4.0,
+  "summary": "该预印本利用詹姆斯·韦布空间望远镜（JWST）光谱数据，给出了红移z=1-7时的碳、氮、氖、硫和氩等化学丰度模式。这为早期星系的化学演化提供了关键观测约束。"
+ },
+ {
+  "time": "2026-10-22 21:59",
+  "source": "arXiv astro-ph",
+  "kind": "预印本",
+  "field": "天文与航天",
+  "title": "Discovery of a Broad-Line Active Galactic Nucleus at $z = 9.98$",
+  "link": "https://arxiv.org/abs/2610.28735",
+  "score": 4.0,
+  "summary": "研究团队发现了红移高达 $z = 9.98$ 的宽线活动星系核（AGN）。这一发现对早期宇宙中超大质量黑洞的形成和生长提供了重要观测证据。"
+ },
+ {
+  "time": "2026-10-22 21:59",
+  "source": "arXiv astro-ph",
+  "kind": "预印本",
+  "field": "天文与航天",
+  "title": "Prior volume effect inflates the gravitational-wave background in pulsar timing arrays",
+  "link": "https://arxiv.org/abs/2610.28739",
+  "score": 4.0,
+  "summary": "该研究指出先验体积效应会放大脉冲星计时阵列（PTA）中的引力波背景。这对于正确解释引力波背景数据和修正统计偏差具有重要方法论意义。"
+ }
+]
