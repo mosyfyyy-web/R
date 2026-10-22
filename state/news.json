@@ -1930,5 +1930,95 @@
   "link": "https://www.science.org/doi/abs/10.1126/sciadv.aef9265?af=R",
   "score": 3.0,
   "summary": "研究揭示了溶菌性噬菌体感染与迁移细菌宿主之间的稳定共生与传输机制。该成果加深了对微生物生态学和噬菌体-宿主相互作用的理解。"
+ },
+ {
+  "time": "2026-10-22 15:26",
+  "source": "arXiv astro-ph",
+  "kind": "预印本",
+  "field": "天文与航天",
+  "title": "A Unified Model for the Gravitational Wave Background and Quasar Luminosity Functions",
+  "link": "https://arxiv.org/abs/2610.28680",
+  "score": 3.0,
+  "summary": "该研究提出了一个统一模型，用于解释引力波背景与类星体光度函数。这有助于理解超大质量黑洞演化及其与宿主星系的关联。"
+ },
+ {
+  "time": "2026-10-22 15:26",
+  "source": "arXiv astro-ph",
+  "kind": "预印本",
+  "field": "天文与航天",
+  "title": "Chemical abundance patterns at z=1-7: Carbon, Nitrogen, Neon, Sulphur, and Argon abundances from JWST spectroscopy",
+  "link": "https://arxiv.org/abs/2610.28717",
+  "score": 4.0,
+  "summary": "利用JWST光谱数据，研究人员分析了z=1-7时的化学丰度模式（碳、氮、氖、硫和氩）。这为早期宇宙的恒星核合成与星系化学演化提供了重要约束。"
+ },
+ {
+  "time": "2026-10-22 15:26",
+  "source": "arXiv astro-ph",
+  "kind": "预印本",
+  "field": "天文与航天",
+  "title": "The Balmer Absorber Strength Problem of Little Red Dots",
+  "link": "https://arxiv.org/abs/2610.28720",
+  "score": 3.0,
+  "summary": "论文探讨了“小红点”（Little Red Dots）中存在的巴耳末吸收线强度问题。这有助于揭示高红移致密天体的物理性质。"
+ },
+ {
+  "time": "2026-10-22 15:26",
+  "source": "arXiv astro-ph",
+  "kind": "预印本",
+  "field": "天文与航天",
+  "title": "Poisson Clustering and Seed Effect of PBHs: Implications for Microlensing, Gravitational Waves, Little Red Dots and Ultra-Faint Dwarf Galaxies",
+  "link": "https://arxiv.org/abs/2610.28723",
+  "score": 3.0,
+  "summary": "研究探讨了原初黑洞（PBHs）的泊松聚类与种子效应，及其对微引力透镜、引力波、小红点和超暗矮星系的影响。该工作连接了多个前沿天体物理学话题。"
+ },
+ {
+  "time": "2026-10-22 15:26",
+  "source": "arXiv astro-ph",
+  "kind": "预印本",
+  "field": "天文与航天",
+  "title": "Arepo-CD: Coupling Collisional $N$-Body Dynamics with Moving-Mesh Magnetohydrodynamics",
+  "link": "https://arxiv.org/abs/2610.28727",
+  "score": 3.0,
+  "summary": "介绍了Arepo-CD代码，它将碰撞N体动力学与移动网格磁流体力学进行了耦合。该数值工具对天体物理多物理场模拟具有重要价值。"
+ },
+ {
+  "time": "2026-10-22 15:26",
+  "source": "arXiv astro-ph",
+  "kind": "预印本",
+  "field": "天文与航天",
+  "title": "The (missing) gamma-ray counterparts to EP events",
+  "link": "https://arxiv.org/abs/2610.28734",
+  "score": 3.0,
+  "summary": "研究分析了爱因斯坦探针（EP）事件所缺失的伽马射线对应体问题。这对高能暂现源的多信使观测研究有参考意义。"
+ },
+ {
+  "time": "2026-10-22 15:26",
+  "source": "arXiv astro-ph",
+  "kind": "预印本",
+  "field": "天文与航天",
+  "title": "Discovery of a Broad-Line Active Galactic Nucleus at $z = 9.98$",
+  "link": "https://arxiv.org/abs/2610.28735",
+  "score": 4.0,
+  "summary": "报告了在z = 9.98处发现的一个宽线活动星系核。该发现刷新了极高红移处超大质量黑洞及其活动性的观测记录。"
+ },
+ {
+  "time": "2026-10-22 15:26",
+  "source": "arXiv astro-ph",
+  "kind": "预印本",
+  "field": "天文与航天",
+  "title": "A combined HST and JWST analysis of the stellar population in Draco II",
+  "link": "https://arxiv.org/abs/2610.28738",
+  "score": 3.0,
+  "summary": "结合了哈勃空间望远镜（HST）与詹姆斯·韦布空间望远镜（JWST）数据，分析了德拉科 II（Draco II）矮星系的恒星布居。这为揭示暗淡卫星星系的形成历史提供了高精度数据。"
+ },
+ {
+  "time": "2026-10-22 15:26",
+  "source": "arXiv astro-ph",
+  "kind": "预印本",
+  "field": "天文与航天",
+  "title": "Prior volume effect inflates the gravitational-wave background in pulsar timing arrays",
+  "link": "https://arxiv.org/abs/2610.28739",
+  "score": 4.0,
+  "summary": "研究指出先验体积效应会夸大脉冲星计时阵列（PTA）中测得的引力波背景。这对于修正未来引力波数据分析和解释具有重要 methodological 意义。"
  }
 ]

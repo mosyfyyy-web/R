@@ -1,7 +1,7 @@
 {
- "time": "2026-10-22 09:25",
+ "time": "2026-10-22 15:26",
  "sources": {
-  "NASA": 10,
+  "NASA": "失败: mismatched tag: line 6, column 2",
   "ESA": 12,
   "Science 新闻": 10,
   "Nature": 12,
@@ -11,6 +11,8 @@
   "PNAS": 12,
   "arXiv astro-ph": 12
  },
- "new_items": 1,
- "kept": 0
+ "new_items": 12,
+ "kept": 9,
+ "raindrop": "失败: Raindrop 401: {\"result\":false,\"status\":401,\"errorMessage\":\"Incorrect access_token\",\"auth\":false}",
+ "pushed": 3
 }
