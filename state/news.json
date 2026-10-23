@@ -318,5 +318,55 @@
   "link": "https://www.science.org/content/article/europe-s-summer-heat-wave-killed-more-50-000-people-urban-areas",
   "score": 4.0,
   "summary": "一项研究表明，欧洲夏季热浪在城市地区造成了超过5万人死亡。该数据对于评估极端天气对公共卫生和城市气候的影响具有重要意义。"
+ },
+ {
+  "time": "2026-10-23 21:18",
+  "source": "Nature",
+  "kind": "论文",
+  "field": "生命科学",
+  "title": "Sleep declines in rural communities after electricity arrives",
+  "link": "https://www.nature.com/articles/d41586-026-03318-2",
+  "score": 4.0,
+  "summary": "一项研究发现，农村社区在通电后居民的睡眠时间出现了下降。该研究揭示了现代电力引入对人类生活方式和生物钟的具体影响，具有较高的社会与科学价值。"
+ },
+ {
+  "time": "2026-10-23 21:18",
+  "source": "Nature",
+  "kind": "论文",
+  "field": "生命科学",
+  "title": "Moderna mRNA vaccine almost halves the risk of skin cancer returning",
+  "link": "https://www.nature.com/articles/d41586-026-03417-0",
+  "score": 5.0,
+  "summary": "莫德纳（Moderna）的mRNA疫苗使皮肤癌复发风险几乎减少了一半。这一临床医学突破对癌症免疫治疗具有极其重要的应用价值和新闻轰动效应。"
+ },
+ {
+  "time": "2026-10-23 21:18",
+  "source": "Nature Astronomy",
+  "kind": "论文",
+  "field": "天文与航天",
+  "title": "Apparent magnetic field decay in a solar flare from Zeeman splitting of the Mg I 12.32-µm line",
+  "link": "https://www.nature.com/articles/s41550-026-03013-2",
+  "score": 4.0,
+  "summary": "通过Mg I 12.32-µm线的塞曼分裂，观测到了太阳耀斑中表面磁场的明显衰减。该研究为理解太阳耀斑物理机制提供了宝贵的观测证据。"
+ },
+ {
+  "time": "2026-10-23 21:18",
+  "source": "Nature Astronomy",
+  "kind": "论文",
+  "field": "天文与航天",
+  "title": "An enriched methane D/H ratio in the interstellar object 3I/ATLAS",
+  "link": "https://www.nature.com/articles/s41550-026-03002-5",
+  "score": 4.0,
+  "summary": "研究发现星际天体3I/ATLAS具有富集的甲烷D/H比率。这一观测结果对了解星际天体的化学组成和太阳系外物质具有重要意义。"
+ },
+ {
+  "time": "2026-10-23 21:18",
+  "source": "Nature Human Behaviour",
+  "kind": "论文",
+  "field": "心理与神经",
+  "title": "Privileged representational axes in biological and artificial neural networks",
+  "link": "https://www.nature.com/articles/s41562-026-02515-3",
+  "score": 4.0,
+  "summary": "研究揭示了生物和人工神经网络中存在特权的表征轴。该成果对理解生物大脑与AI模型的底层表征机制有重要理论价值。"
  }
 ]
