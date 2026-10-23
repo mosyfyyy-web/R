@@ -1,7 +1,7 @@
 {
- "time": "2026-10-23 09:23",
+ "time": "2026-10-23 15:20",
  "sources": {
-  "NASA": 10,
+  "NASA": "失败: mismatched tag: line 6, column 2",
   "ESA": 12,
   "Science 新闻": 10,
   "Nature": 12,
@@ -11,7 +11,6 @@
   "PNAS": 12,
   "arXiv astro-ph": 12
  },
- "new_items": 3,
- "kept": 1,
- "raindrop": "ok, 添加 1 条"
+ "new_items": 12,
+ "kept": 0
 }
