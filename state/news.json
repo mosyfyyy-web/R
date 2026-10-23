@@ -308,5 +308,15 @@
   "link": "https://www.nature.com/articles/d41586-026-03371-x",
   "score": 5.0,
   "summary": "研究实现了CRISPR技术的重要突破，首次在人体内利用强大的先导编辑（prime editing）技术直接修改DNA。这标志着基因疗法向临床精准治疗迈出了历史性的一步。"
+ },
+ {
+  "time": "2026-10-23 09:23",
+  "source": "Science 新闻",
+  "kind": "新闻",
+  "field": "地球与气候",
+  "title": "Europe’s summer heat wave killed more than 50,000 people in urban areas",
+  "link": "https://www.science.org/content/article/europe-s-summer-heat-wave-killed-more-50-000-people-urban-areas",
+  "score": 4.0,
+  "summary": "一项研究表明，欧洲夏季热浪在城市地区造成了超过5万人死亡。该数据对于评估极端天气对公共卫生和城市气候的影响具有重要意义。"
  }
 ]
