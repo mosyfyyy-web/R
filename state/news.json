@@ -398,5 +398,15 @@
   "link": "https://www.nature.com/articles/s41550-026-03007-0",
   "score": 5.0,
   "summary": "观测记录到一个持续4分钟间隔的交织短伽马射线暴和长伽马射线暴。该天文发现对理解伽马射线暴的暴发机制具有重要意义。"
+ },
+ {
+  "time": "2026-10-24 08:27",
+  "source": "NASA",
+  "kind": "新闻",
+  "field": "天文与航天",
+  "title": "NASA’s Swift Mission Ends, Leaves Behind Scientific Bonanza",
+  "link": "https://science.nasa.gov/missions/swift/nasas-swift-mission-ends/",
+  "score": 4.0,
+  "summary": "NASA的尼尔· Gehrels雨燕天文台（Swift Mission）任务正式结束，留下了丰富的科学遗产与数据集。该任务在其运行期间为高能天体物理学和伽马射线暴研究做出了巨大贡献。"
  }
 ]
