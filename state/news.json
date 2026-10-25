@@ -408,5 +408,15 @@
   "link": "https://science.nasa.gov/missions/swift/nasas-swift-mission-ends/",
   "score": 4.0,
   "summary": "NASA的尼尔· Gehrels雨燕天文台（Swift Mission）任务正式结束，留下了丰富的科学遗产与数据集。该任务在其运行期间为高能天体物理学和伽马射线暴研究做出了巨大贡献。"
+ },
+ {
+  "time": "2026-10-25 19:11",
+  "source": "Nature",
+  "kind": "论文",
+  "field": "生命科学",
+  "title": "ctDNA clearance and outcomes for resectable lung cancer from NeoCOAST-2",
+  "link": "https://www.nature.com/articles/s41586-026-11328-3",
+  "score": 4.0,
+  "summary": "该研究探讨了NeoCOAST-2临床试验中可切除肺癌患者的ctDNA清除情况及其与临床预后的关系。这对于评估新辅助治疗效果和预测肺癌患者生存结局具有重要临床价值。"
  }
 ]
