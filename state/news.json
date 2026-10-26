@@ -418,5 +418,55 @@
   "link": "https://www.nature.com/articles/s41586-026-11328-3",
   "score": 4.0,
   "summary": "该研究探讨了NeoCOAST-2临床试验中可切除肺癌患者的ctDNA清除情况及其与临床预后的关系。这对于评估新辅助治疗效果和预测肺癌患者生存结局具有重要临床价值。"
+ },
+ {
+  "time": "2026-10-26 18:57",
+  "source": "Nature",
+  "kind": "综述",
+  "field": "生命科学",
+  "title": "The Selfish Gene , 50 years on — it’s time for an update",
+  "link": "https://www.nature.com/articles/d41586-026-03393-5",
+  "score": 4.0,
+  "summary": "值《自私的基因》出版50周年之际，文章探讨了该理论需要更新的观点。这对于理解演化生物学的发展具有重要回顾与前瞻意义。"
+ },
+ {
+  "time": "2026-10-26 18:57",
+  "source": "Nature Human Behaviour",
+  "kind": "论文",
+  "field": "生命科学",
+  "title": "Within-family heritability estimates for behavioural and disease phenotypes from 500,000 sibling pairs of diverse ancestries",
+  "link": "https://www.nature.com/articles/s41562-026-02599-x",
+  "score": 4.0,
+  "summary": "利用来自多血统的50万对同胞对数据，研究人员估算了行为与疾病表型的家族内遗传率。该研究具有极大的样本量和广泛的遗传学参考价值。"
+ },
+ {
+  "time": "2026-10-26 18:57",
+  "source": "Nature Human Behaviour",
+  "kind": "论文",
+  "field": "技术与工程",
+  "title": "Generative AI and the temporary upskilling of knowledge workers",
+  "link": "https://www.nature.com/articles/s41562-026-02566-6",
+  "score": 4.0,
+  "summary": "研究评估了生成式AI对知识工作者带来的暂时性技能提升效应。这对理解人机协作和未来职场变革具有重要意义。"
+ },
+ {
+  "time": "2026-10-26 18:57",
+  "source": "Nature Human Behaviour",
+  "kind": "论文",
+  "field": "技术与工程",
+  "title": "Turing-like tests for language and vision demonstrate a narrowing gap between humans and AI",
+  "link": "https://www.nature.com/articles/s41562-026-02590-6",
+  "score": 4.0,
+  "summary": "通过针对语言和视觉的类图灵测试，研究展示了人类与人工智能之间差距正不断缩小的趋势。这为评估AI认知能力提供了重要的方法与实证。"
+ },
+ {
+  "time": "2026-10-26 18:57",
+  "source": "Nature Human Behaviour",
+  "kind": "综述",
+  "field": "技术与工程",
+  "title": "Large language models for computational social science",
+  "link": "https://www.nature.com/articles/s41562-026-02539-9",
+  "score": 4.0,
+  "summary": "文章探讨了大型语言模型在计算社会科学中的应用及前景。这标志着AI技术正在深入重塑社会科学的研究方法。"
  }
 ]
