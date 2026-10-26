@@ -468,5 +468,35 @@
   "link": "https://www.nature.com/articles/s41562-026-02539-9",
   "score": 4.0,
   "summary": "文章探讨了大型语言模型在计算社会科学中的应用及前景。这标志着AI技术正在深入重塑社会科学的研究方法。"
+ },
+ {
+  "time": "2026-10-27 01:15",
+  "source": "Nature",
+  "kind": "新闻",
+  "field": "生命科学",
+  "title": "Evolutionary 'game-changer': weird armoured amphibian lived in ancient seas",
+  "link": "https://www.nature.com/articles/d41586-026-03440-1",
+  "score": 4.0,
+  "summary": "报道了一种生活在古代海洋中的奇异铠甲两栖动物的发现，被视为演化史上的重要事件。这一发现丰富了我们对早期两栖动物演化和古环境的理解。"
+ },
+ {
+  "time": "2026-10-27 01:15",
+  "source": "Nature Astronomy",
+  "kind": "论文",
+  "field": "天文与航天",
+  "title": "Retention of primordial atmospheres through giant impacts",
+  "link": "https://www.nature.com/articles/s41550-026-03006-1",
+  "score": 4.0,
+  "summary": "研究了原行星在巨大撞击事件中如何保留其原始大气。该论文对理解行星形成和早期大气演化具有重要理论意义。"
+ },
+ {
+  "time": "2026-10-27 01:15",
+  "source": "Nature Astronomy",
+  "kind": "论文",
+  "field": "天文与航天",
+  "title": "A double debris disc around a white dwarf sculpted by two planetary bodies",
+  "link": "https://www.nature.com/articles/s41550-026-03004-3",
+  "score": 4.0,
+  "summary": "发现白矮星周围存在一个由两颗行星天体塑造的双debris星盘（碎片盘）。这一观测成果为研究行星系统的演化和白矮星周围的动力学提供了重要证据。"
  }
 ]
