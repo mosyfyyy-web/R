@@ -548,5 +548,55 @@
   "link": "https://www.nature.com/articles/d41586-026-03384-6",
   "score": 4.0,
   "summary": "研究发现神秘的闪烁脑电信号可能有助于揭开意识的秘密。该成果对探索意识的神经机制具有重要意义。"
+ },
+ {
+  "time": "2026-10-28 07:41",
+  "source": "Science 新闻",
+  "kind": "新闻",
+  "field": "技术与工程",
+  "title": "IBM links two quantum chips in key step toward bigger computers",
+  "link": "https://www.science.org/content/article/ibm-links-two-quantum-chips-key-step-toward-bigger-computers",
+  "score": 4.0,
+  "summary": "IBM成功将两个量子芯片连接在一起，这是朝着构建更大规模量子计算机迈出的关键一步。该进展有助于推动量子计算硬件的扩展与实际应用。"
+ },
+ {
+  "time": "2026-10-28 07:41",
+  "source": "Science 新闻",
+  "kind": "新闻",
+  "field": "生命科学",
+  "title": "Devastating 2004 Indian Ocean tsunami left victims more prone to obesity, heart disease",
+  "link": "https://www.science.org/content/article/devastating-2004-indian-ocean-tsunami-left-victims-more-prone-obesity-heart-disease",
+  "score": 4.0,
+  "summary": "研究发现2004年印度洋海啸的幸存者更容易患上肥胖症和心脏病等健康问题。这一发现揭示了重大自然灾害对幸存者长期健康产生的深远负面影响。"
+ },
+ {
+  "time": "2026-10-28 07:41",
+  "source": "Science 新闻",
+  "kind": "新闻",
+  "field": "技术与工程",
+  "title": "AI is shaking up math. But can its proofs be trusted?",
+  "link": "https://www.science.org/content/article/ai-shaking-math-can-its-proofs-be-trusted",
+  "score": 4.0,
+  "summary": "人工智能正在深刻改变数学研究领域，但其生成的证明过程是否值得信赖引发了讨论。这关乎AI在严谨科学和数学推理中的可靠性与应用前景。"
+ },
+ {
+  "time": "2026-10-28 07:41",
+  "source": "Nature",
+  "kind": "新闻",
+  "field": "生命科学",
+  "title": "Gene therapy that led to boy’s death had limited efficacy",
+  "link": "https://www.nature.com/articles/d41586-026-03449-6",
+  "score": 4.0,
+  "summary": "导致一名男孩死亡的基因疗法被评估为疗效有限。该事件为基因治疗的临床安全性和有效性评估敲响了警钟。"
+ },
+ {
+  "time": "2026-10-28 07:41",
+  "source": "Nature",
+  "kind": "新闻",
+  "field": "天文与航天",
+  "title": "Revered NASA spacecraft is about to perish in flames — astronomers are mourning",
+  "link": "https://www.nature.com/articles/d41586-026-03461-w",
+  "score": 5.0,
+  "summary": "一颗备受尊敬的NASA航天器即将在烈火中陨落，天文学家对此表示哀悼。它的坠毁标志着一项重要太空探测任务的终结。"
  }
 ]
