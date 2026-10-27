@@ -518,5 +518,25 @@
   "link": "https://www.nature.com/articles/d41586-026-03258-x",
   "score": 4.0,
   "summary": "最新研究发现，神经活动能够引发自身免疫性脱发。该成果揭示了神经系统与免疫系统在疾病中的相互作用机制。"
+ },
+ {
+  "time": "2026-10-27 15:40",
+  "source": "arXiv astro-ph",
+  "kind": "预印本",
+  "field": "天文与航天",
+  "title": "$El\\ Ascua$: An ultra-luminous, radio-loud, Compton-thick AGN at $z\\sim 3.8$ hiding in plain sight revealed by MINERVA multi-band MIRI observations",
+  "link": "https://arxiv.org/abs/2610.33155",
+  "score": 4.0,
+  "summary": "通过MINERVA多波段MIRI观测，揭示了一个隐藏在z~3.8的超亮、射电响亮、康普顿厚活动星系核（AGN）“El Ascua”。这一发现对研究早期宇宙中大质量黑洞的生长具有重要意义。"
+ },
+ {
+  "time": "2026-10-27 15:40",
+  "source": "arXiv astro-ph",
+  "kind": "预印本",
+  "field": "天文与航天",
+  "title": "SN Ares: A Strongly Lensed Type IIb Supernova at $\\mathbf{z=1.276}$ with a Predicted 70-Year Time Delay",
+  "link": "https://arxiv.org/abs/2610.33161",
+  "score": 4.0,
+  "summary": "报告了一个红移为1.276的强引力透镜IIb型超新星（SN Ares），并预测其具有70年的时间延迟。罕见的强引力透镜超新星对宇宙学参数测量具有较高价值。"
  }
 ]
