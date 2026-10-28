@@ -728,5 +728,65 @@
   "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2609893123?af=R",
   "score": 4.0,
   "summary": "探讨了皮层功能的神经调制控制，重点分析了细胞类型特异性对神经元信息传递的调节作用。该研究深化了对大脑皮层复杂网络信息处理机制的理解。"
+ },
+ {
+  "time": "2026-10-29 02:46",
+  "source": "NASA",
+  "kind": "新闻",
+  "field": "天文与航天",
+  "title": "Webb Sees Turbulent Star Nursery",
+  "link": "https://www.nasa.gov/image-article/webb-sees-turbulent-star-nursery/",
+  "score": 4.0,
+  "summary": "詹姆斯·韦布空间望远镜捕捉到了一个处于动荡中的恒星培育所的画面。这一观测为研究恒星形成过程提供了重要的视觉和科学数据。"
+ },
+ {
+  "time": "2026-10-29 02:46",
+  "source": "Nature",
+  "kind": "论文",
+  "field": "物理与化学",
+  "title": "Switchable Chlorine Atom Transfer Radical Reactions",
+  "link": "https://www.nature.com/articles/s41586-026-11348-z",
+  "score": 4.0,
+  "summary": "该研究报道了可切换的氯原子转移自由基反应。这一化学合成方法的突破有望扩展复杂分子的构筑途径。"
+ },
+ {
+  "time": "2026-10-29 02:46",
+  "source": "Nature",
+  "kind": "论文",
+  "field": "物理与化学",
+  "title": "Back-to-monomer depolymerization of silicones by deoxygenative chlorination",
+  "link": "https://www.nature.com/articles/s41586-026-11335-4",
+  "score": 4.0,
+  "summary": "研究团队通过脱氧氯化实现了有机硅的回退单体解聚。该成果为硅高分子材料的循环利用和废弃物降解提供了新策略。"
+ },
+ {
+  "time": "2026-10-29 02:46",
+  "source": "Nature",
+  "kind": "论文",
+  "field": "生命科学",
+  "title": "The brain liquidates billions of mutant neurons around the time we’re born",
+  "link": "https://www.nature.com/articles/d41586-026-03444-x",
+  "score": 4.0,
+  "summary": "研究发现，在人类出生前后，大脑会清除数十亿个突变神经元。这一机制揭示了早期大脑发育过程中严格的细胞质量控制系统。"
+ },
+ {
+  "time": "2026-10-29 02:46",
+  "source": "Nature",
+  "kind": "论文",
+  "field": "生命科学",
+  "title": "Lactate takes a shortcut into mitochondria to power the heart",
+  "link": "https://www.nature.com/articles/d41586-026-03261-2",
+  "score": 4.0,
+  "summary": "研究揭示乳酸可以走捷径进入线粒体以驱动心脏运转。这一发现更新了学术界对心脏能量代谢途径的理解。"
+ },
+ {
+  "time": "2026-10-29 02:46",
+  "source": "Nature",
+  "kind": "论文",
+  "field": "生命科学",
+  "title": "Clues about complex life come from freshly cultivated archaea",
+  "link": "https://www.nature.com/articles/d41586-026-03294-7",
+  "score": 4.0,
+  "summary": "通过对新培养的古菌进行研究，获得了有关复杂生命起源的重要线索。该发现为探索地球早期生命的演化历程提供了关键微生物学证据。"
  }
 ]
