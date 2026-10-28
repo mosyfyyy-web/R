@@ -598,5 +598,35 @@
   "link": "https://www.nature.com/articles/d41586-026-03461-w",
   "score": 5.0,
   "summary": "一颗备受尊敬的NASA航天器即将在烈火中陨落，天文学家对此表示哀悼。它的坠毁标志着一项重要太空探测任务的终结。"
+ },
+ {
+  "time": "2026-10-28 13:23",
+  "source": "arXiv astro-ph",
+  "kind": "预印本",
+  "field": "天文与航天",
+  "title": "The SIRMOS mission concept: a space-based near-IR spectroscopic survey of 100 million galaxies in the Euclid Wide Survey footprint",
+  "link": "https://arxiv.org/abs/2610.35945",
+  "score": 4.0,
+  "summary": "文章提出了SIRMOS空间任务概念，计划对欧几里得巡天区域内的1亿个星系进行近红外光谱巡天。该概念对未来的空间天文观测项目具有重要参考价值。"
+ },
+ {
+  "time": "2026-10-28 13:23",
+  "source": "arXiv astro-ph",
+  "kind": "预印本",
+  "field": "天文与航天",
+  "title": "Detection of star formation in a near-pristine pocket of the Universe",
+  "link": "https://arxiv.org/abs/2610.36042",
+  "score": 4.0,
+  "summary": "研究团队在宇宙中一个接近原始成分的区域探测到了恒星形成活动。这一发现对于理解早期宇宙的原初气体演化与恒星起源具有重要意义。"
+ },
+ {
+  "time": "2026-10-28 13:23",
+  "source": "arXiv astro-ph",
+  "kind": "预印本",
+  "field": "天文与航天",
+  "title": "An intermediate-mass stripped star with a dark companion in the Small Magellanic Cloud",
+  "link": "https://arxiv.org/abs/2610.36050",
+  "score": 4.0,
+  "summary": "在小麦哲伦星系中发现了一个带有暗伴星的中等质量剥离星。这一发现对研究恒星演化路径和致密天体伴星系统具有重要价值。"
  }
 ]
