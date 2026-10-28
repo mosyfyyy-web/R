@@ -788,5 +788,55 @@
   "link": "https://www.nature.com/articles/d41586-026-03294-7",
   "score": 4.0,
   "summary": "通过对新培养的古菌进行研究，获得了有关复杂生命起源的重要线索。该发现为探索地球早期生命的演化历程提供了关键微生物学证据。"
+ },
+ {
+  "time": "2026-10-29 07:05",
+  "source": "Science 新闻",
+  "kind": "新闻",
+  "field": "技术与工程",
+  "title": "AI cracks a 27-year-old pillar of computer science, OpenAI and Anthropic claim",
+  "link": "https://www.science.org/content/article/ai-cracks-27-year-old-pillar-computer-science-openai-and-anthropic-claim",
+  "score": 4.0,
+  "summary": "OpenAI和Anthropic声称利用AI破解了计算机科学领域长达27年的重要难题。该成果展示了人工智能在解决复杂算法和理论问题上的巨大潜力。"
+ },
+ {
+  "time": "2026-10-29 07:05",
+  "source": "Science Advances",
+  "kind": "论文",
+  "field": "生命科学",
+  "title": "An oxidized ribonucleotide 8-oxoGTP drives neuroinflammation and accelerates cognitive decline",
+  "link": "https://www.science.org/doi/abs/10.1126/sciadv.aee0110?af=R",
+  "score": 4.0,
+  "summary": "研究表明氧化核糖核苷酸8-oxoGTP会驱动神经炎症并加速认知衰退。这揭示了细胞内RNA氧化损伤在神经退行性疾病中的新病理机制。"
+ },
+ {
+  "time": "2026-10-29 07:05",
+  "source": "Science Advances",
+  "kind": "论文",
+  "field": "天文与航天",
+  "title": "Harmonic brightness oscillations point to magnetar giant flares in rare short gamma-ray bursts",
+  "link": "https://www.science.org/doi/abs/10.1126/sciadv.aee6388?af=R",
+  "score": 4.0,
+  "summary": "研究发现谐波亮度振荡指向罕见短伽马射线暴中的磁星巨耀斑。这一观测结果为揭示宇宙中极端高能爆发事件的物理机制提供了重要线索。"
+ },
+ {
+  "time": "2026-10-29 07:05",
+  "source": "Science Advances",
+  "kind": "论文",
+  "field": "地球与气候",
+  "title": "Evidence from 2024 Storm Boris indicates anthropogenic climate change amplifies floods more than extreme precipitation",
+  "link": "https://www.science.org/doi/abs/10.1126/sciadv.aef7703?af=R",
+  "score": 4.0,
+  "summary": "来自2024年鲍里斯风暴的证据表明，人为气候变化对洪水的放大作用超过了极端降水本身。这强调了在全球变暖背景下重新评估水文灾害风险的必要性。"
+ },
+ {
+  "time": "2026-10-29 07:05",
+  "source": "Science Advances",
+  "kind": "论文",
+  "field": "生命科学",
+  "title": "Nanomaterial-genetics enables near-infrared-driven genetically targeted neuromodulation",
+  "link": "https://www.science.org/doi/abs/10.1126/sciadv.aef7843?af=R",
+  "score": 4.0,
+  "summary": "纳米材料遗传学技术实现了近红外光驱动的基因靶向神经调控。该方法为高空间精度、非侵入式脑科学研究提供了强大工具。"
  }
 ]
