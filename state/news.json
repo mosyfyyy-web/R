@@ -868,5 +868,65 @@
   "link": "https://www.nature.com/articles/s41550-026-03008-z",
   "score": 4.0,
   "summary": "本研究观测并报道了在红移约4.5的气体丰富星系合并中，双活动星系核的快速增长现象。该发现在早期宇宙黑洞生长和星系演化研究中具有重要意义。"
+ },
+ {
+  "time": "2026-10-31 04:39",
+  "source": "Science 新闻",
+  "kind": "新闻",
+  "field": "生命科学",
+  "title": "Bones may release proteins that slow aging and extend life span",
+  "link": "https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span",
+  "score": 4.0,
+  "summary": "一项科学研究表明，骨骼可能会释放出能够延缓衰老并延长寿命的蛋白质。这一发现揭示了骨骼在衰老调控中的新作用，对延长寿命的研究具有重要意义。"
+ },
+ {
+  "time": "2026-10-31 04:39",
+  "source": "Science Advances",
+  "kind": "论文",
+  "field": "生命科学",
+  "title": "Decoder-FFPE-seq enables sensitive, genome-wide spatial transcriptomics of archival tissues at single-cell resolution",
+  "link": "https://www.science.org/doi/abs/10.1126/sciadv.ady5085?af=R",
+  "score": 4.0,
+  "summary": "研究介绍了Decoder-FFPE-seq技术，该技术能够实现对存档组织的高灵敏度、全基因组单细胞分辨率空间转录组学分析。这为利用历史样本进行基因表达研究提供了强大工具。"
+ },
+ {
+  "time": "2026-10-31 04:39",
+  "source": "Science Advances",
+  "kind": "论文",
+  "field": "生命科学",
+  "title": "Graph-based pangenome analysis uncovers structural and functional impacts of allopolyploidization events",
+  "link": "https://www.science.org/doi/abs/10.1126/sciadv.aea5812?af=R",
+  "score": 4.0,
+  "summary": "该研究利用基于图的泛基因组分析，揭示了异源多倍化事件对基因组结构和功能的影响。这加深了人们对多倍体植物演化机制的理解。"
+ },
+ {
+  "time": "2026-10-31 04:39",
+  "source": "Science Advances",
+  "kind": "论文",
+  "field": "生命科学",
+  "title": "RNA binding by ADARs prevents RNA interference from attacking self-produced dsRNA",
+  "link": "https://www.science.org/doi/abs/10.1126/sciadv.aed7314?af=R",
+  "score": 4.0,
+  "summary": "研究发现ADAR蛋白对RNA的结合能够防止RNA干扰机制攻击自身产生的双链RNA。这一机制揭示了细胞区分自身与外源RNA的免疫调控原理。"
+ },
+ {
+  "time": "2026-10-31 04:39",
+  "source": "Science Advances",
+  "kind": "论文",
+  "field": "地球与气候",
+  "title": "Monsoon zonal seesaw: Development of the South Asian monsoon aridified North Africa in the Cenozoic",
+  "link": "https://www.science.org/doi/abs/10.1126/sciadv.aee1112?af=R",
+  "score": 4.0,
+  "summary": "研究揭示了新生代期间南亚季风与北非干旱化之间的“季风纬向跷跷板”效应。该发现阐明了大尺度气候系统之间的遥相关演变过程。"
+ },
+ {
+  "time": "2026-10-31 04:39",
+  "source": "Science Advances",
+  "kind": "论文",
+  "field": "生命科学",
+  "title": "Evidence of active whole-genome doubling (WGD) subclones in non-WGD tumors",
+  "link": "https://www.science.org/doi/abs/10.1126/sciadv.aee7939?af=R",
+  "score": 4.0,
+  "summary": "研究人员在非全基因组加倍（WGD）的肿瘤中发现了活跃的全基因组加倍亚克隆的证据。这一发现深化了对肿瘤进化和异质性的理解。"
  }
 ]
