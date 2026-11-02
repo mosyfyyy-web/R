@@ -1,5 +1,5 @@
 {
- "time": "2026-11-01 17:05",
+ "time": "2026-11-02 15:34",
  "sources": {
   "NASA": 10,
   "ESA": 12,
@@ -9,8 +9,9 @@
   "Nature Human Behaviour": 8,
   "Science Advances": 12,
   "PNAS": "失败: not well-formed (invalid token): line 1, column 1341",
-  "arXiv astro-ph": 0
+  "arXiv astro-ph": 12
  },
- "new_items": 1,
- "kept": 0
+ "new_items": 15,
+ "kept": 3,
+ "raindrop": "ok, 添加 3 条"
 }

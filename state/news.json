@@ -928,5 +928,35 @@
   "link": "https://www.science.org/doi/abs/10.1126/sciadv.aee7939?af=R",
   "score": 4.0,
   "summary": "研究人员在非全基因组加倍（WGD）的肿瘤中发现了活跃的全基因组加倍亚克隆的证据。这一发现深化了对肿瘤进化和异质性的理解。"
+ },
+ {
+  "time": "2026-11-02 15:34",
+  "source": "Nature",
+  "kind": "新闻",
+  "field": "生命科学",
+  "title": "Measles made a stealthy return as another virus took the spotlight",
+  "link": "https://www.nature.com/articles/d41586-026-03387-3",
+  "score": 4.0,
+  "summary": "文章报道了在其他病毒成为焦点时麻疹的悄然回归。该公共卫生现象对传染病防控具有重要警示意义。"
+ },
+ {
+  "time": "2026-11-02 15:34",
+  "source": "arXiv astro-ph",
+  "kind": "预印本",
+  "field": "天文与航天",
+  "title": "Hints of self-interacting dark matter from strong gravitational lensing",
+  "link": "https://arxiv.org/abs/2610.40766",
+  "score": 4.0,
+  "summary": "该研究通过强引力透镜效应发现了自相互作用暗物质的线索。这可能为揭示暗物质的本质提供关键物理证据。"
+ },
+ {
+  "time": "2026-11-02 15:34",
+  "source": "arXiv astro-ph",
+  "kind": "预印本",
+  "field": "天文与航天",
+  "title": "Model-independent and reconstruction-free evidence for cosmic acceleration from DESI baryon acoustic oscillations",
+  "link": "https://arxiv.org/abs/2610.40785",
+  "score": 4.0,
+  "summary": "利用DESI重子声学振荡数据给出了宇宙加速膨胀的模型独立且无需重建的证据。对宇宙学标准模型具有重要检验意义。"
  }
 ]
