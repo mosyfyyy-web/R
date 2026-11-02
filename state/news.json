@@ -958,5 +958,35 @@
   "link": "https://arxiv.org/abs/2610.40785",
   "score": 4.0,
   "summary": "利用DESI重子声学振荡数据给出了宇宙加速膨胀的模型独立且无需重建的证据。对宇宙学标准模型具有重要检验意义。"
+ },
+ {
+  "time": "2026-11-03 02:10",
+  "source": "NASA",
+  "kind": "新闻",
+  "field": "天文与航天",
+  "title": "NASA’s Hubble Uncovers Case of Missing Oxygen in Nearby Dwarf Galaxies",
+  "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-uncovers-case-of-missing-oxygen-in-nearby-dwarf-galaxies/",
+  "score": 4.0,
+  "summary": "哈勃望远镜在附近的矮星系中发现了氧气缺失的案例。这一观测结果有助于深入理解星系演化和元素循环过程。"
+ },
+ {
+  "time": "2026-11-03 02:10",
+  "source": "Science 新闻",
+  "kind": "新闻",
+  "field": "地球与气候",
+  "title": "The Moon may have squeezed Earth’s first continents into existence",
+  "link": "https://www.science.org/content/article/moon-may-have-squeezed-earth-s-first-continents-existence",
+  "score": 4.0,
+  "summary": "一项研究表明，月球可能曾挤压地球使其第一批大陆得以形成。该发现为理解早期地球的板块构造和地质演化提供了新视角。"
+ },
+ {
+  "time": "2026-11-03 02:10",
+  "source": "Nature",
+  "kind": "综述",
+  "field": "心理与神经",
+  "title": "Meet Neuropixels: how probes that track hundreds of brain cells at once are revolutionizing neuroscience",
+  "link": "https://www.nature.com/articles/d41586-026-03511-3",
+  "score": 4.0,
+  "summary": "介绍了能够同时追踪数百个脑细胞的Neuropixels探针如何革新神经科学研究。该技术对脑科学发展具有重要推动作用。"
  }
 ]
