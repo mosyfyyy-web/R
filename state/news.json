@@ -1038,5 +1038,45 @@
   "link": "https://www.nature.com/articles/d41586-026-03538-6",
   "score": 4.0,
   "summary": "一项关于历史性马尔堡病毒疫情的研究表明，该病毒可能存在长期的病毒潜伏场所。这一发现对理解病毒的长期宿主和疫情防控具有重要意义。"
+ },
+ {
+  "time": "2026-11-04 13:59",
+  "source": "PNAS",
+  "kind": "论文",
+  "field": "生命科学",
+  "title": "A symbiogenic merger enabled by oxygen initiated the evolution of eukaryotes",
+  "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2620770123?af=R",
+  "score": 4.0,
+  "summary": "研究提出了一种由氧气引发的共生起源融合事件，该事件促成了真核生物的演化。这一发现对理解地球早期生命形式和真核生物起源具有重要理论意义。"
+ },
+ {
+  "time": "2026-11-04 13:59",
+  "source": "PNAS",
+  "kind": "论文",
+  "field": "天文与航天",
+  "title": "Widespread plasma jets in the Martian magnetosheath revealed by dual-spacecraft observations",
+  "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2616582123?af=R",
+  "score": 4.0,
+  "summary": "基于双航天器观测，研究揭示了火星磁鞘中广泛存在的等离子体射流现象。这一发现加深了对太阳风与火星磁场相互作用的理解。"
+ },
+ {
+  "time": "2026-11-04 13:59",
+  "source": "arXiv astro-ph",
+  "kind": "预印本",
+  "field": "天文与航天",
+  "title": "3D dark matter map of the JWST COSMOS-Web field using diffusion-based generative priors",
+  "link": "https://arxiv.org/abs/2611.03786",
+  "score": 4.0,
+  "summary": "研究利用基于扩散的生成式先验，构建了JWST COSMOS-Web观测场的三维暗物质图。该方法展示了生成式AI在重构宇宙大尺度结构方面的应用潜力。"
+ },
+ {
+  "time": "2026-11-04 13:59",
+  "source": "arXiv astro-ph",
+  "kind": "预印本",
+  "field": "天文与航天",
+  "title": "Tiny Galaxies, Mighty Nitrogen: Linking Chemical Anomalies to Compact Galaxies at High Redshift using JWST/JADES",
+  "link": "https://arxiv.org/abs/2611.03799",
+  "score": 4.0,
+  "summary": "结合JWST/JADES的数据，研究将高红移紧凑星系的化学异常（强富氮）联系起来。这为揭示早期宇宙星系的化学演化与恒星形成历史提供了关键线索。"
  }
 ]
