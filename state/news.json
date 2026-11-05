@@ -1338,5 +1338,15 @@
   "link": "https://www.science.org/content/article/goodbye-swift-after-22-years-nasa-spacecraft-burns-atmosphere",
   "score": 4.0,
   "summary": "在运行22年后，NASA的Swift航天器在大气层中烧毁并退役。这标志着一台重要天文望远镜科学使命的结束。"
+ },
+ {
+  "time": "2026-11-05 18:41",
+  "source": "arXiv astro-ph",
+  "kind": "预印本",
+  "field": "天文与航天",
+  "title": "From Early Concepts to Lunar Hypertelescopes Roadmap for Next-Generation Optical Astronomy on the Moon",
+  "link": "https://arxiv.org/abs/2611.05434",
+  "score": 4.0,
+  "summary": "本文提出了月球超大望远镜（Lunar Hypertelescopes）从早期概念到下一代月球光学天文发展的路线图。这对未来月球基地的天文观测和空间探测规划具有重要的前瞻指导意义。"
  }
 ]
