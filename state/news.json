@@ -1348,5 +1348,25 @@
   "link": "https://arxiv.org/abs/2611.05434",
   "score": 4.0,
   "summary": "本文提出了月球超大望远镜（Lunar Hypertelescopes）从早期概念到下一代月球光学天文发展的路线图。这对未来月球基地的天文观测和空间探测规划具有重要的前瞻指导意义。"
+ },
+ {
+  "time": "2026-11-06 02:39",
+  "source": "Nature",
+  "kind": "论文",
+  "field": "生命科学",
+  "title": "Opportunistically Detecting Signs of Hypertension on a Consumer Smartwatch",
+  "link": "https://www.nature.com/articles/s41586-026-11336-3",
+  "score": 4.0,
+  "summary": "研究展示了通过消费级智能手表利用光电容积脉搏波（PPG）数据来识别高血压的可能性。这一发现有助于低成本、大规模地筛查高血压，对公共卫生健康监测具有重要意义。"
+ },
+ {
+  "time": "2026-11-06 02:39",
+  "source": "Nature",
+  "kind": "论文",
+  "field": "地球与气候",
+  "title": "Hydrogen Derivatives Enable Cost-Effective Carbon Neutrality in China",
+  "link": "https://www.nature.com/articles/s41586-026-11351-4",
+  "score": 4.0,
+  "summary": "该研究分析了氢衍生物在中国实现碳中和路径中的成本效益。这项成果为中国制定能源转型战略提供了关键的数据支持，是实现气候目标的重要政策参考。"
  }
 ]
