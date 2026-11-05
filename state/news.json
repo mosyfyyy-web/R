@@ -1318,5 +1318,25 @@
   "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeg1718?af=R",
   "score": 4.0,
   "summary": "工程化共生微球实现了对慢性炎症性血管疾病中肠道-免疫-血管轴的系统级重编程。该生物工程策略为心血管疾病治疗提供了新途径。"
+ },
+ {
+  "time": "2026-11-05 10:11",
+  "source": "NASA",
+  "kind": "新闻",
+  "field": "天文与航天",
+  "title": "NASA Shares Plans to Accelerate Artemis, Return to Moon",
+  "link": "https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon/",
+  "score": 4.0,
+  "summary": "NASA分享了加速Artemis计划并重返月球的计划。这一重大航天任务的推进备受关注。"
+ },
+ {
+  "time": "2026-11-05 10:11",
+  "source": "Science 新闻",
+  "kind": "新闻",
+  "field": "天文与航天",
+  "title": "Goodbye Swift: After 22 years, NASA spacecraft burns up in atmosphere",
+  "link": "https://www.science.org/content/article/goodbye-swift-after-22-years-nasa-spacecraft-burns-atmosphere",
+  "score": 4.0,
+  "summary": "在运行22年后，NASA的Swift航天器在大气层中烧毁并退役。这标志着一台重要天文望远镜科学使命的结束。"
  }
 ]
