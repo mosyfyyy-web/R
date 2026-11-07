@@ -1,7 +1,7 @@
 {
- "time": "2026-11-07 04:48",
+ "time": "2026-11-07 08:50",
  "sources": {
-  "NASA": 10,
+  "NASA": "失败: mismatched tag: line 6, column 2",
   "ESA": "失败: not well-formed (invalid token): line 45, column 39",
   "Science 新闻": 10,
   "Nature": 12,
@@ -11,6 +11,7 @@
   "PNAS": 12,
   "arXiv astro-ph": 12
  },
- "new_items": 14,
- "kept": 0
+ "new_items": 3,
+ "kept": 1,
+ "raindrop": "ok, 添加 1 条"
 }
