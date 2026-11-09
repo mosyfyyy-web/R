@@ -1408,5 +1408,65 @@
   "link": "https://www.nature.com/articles/d41586-026-03631-w",
   "score": 4.0,
   "summary": "随着地球面临即将突破1.5°C气候目标的紧迫局势，第31届联合国气候变化大会（COP31）正式开幕。该会议对全球气候政策和减排行动具有重要影响。"
+ },
+ {
+  "time": "2026-11-10 02:39",
+  "source": "NASA",
+  "kind": "新闻",
+  "field": "天文与航天",
+  "title": "NASA’s ESCAPADE Completes Powered Earth Flybys, Now En Route to Mars",
+  "link": "https://science.nasa.gov/science-research/heliophysics/nasas-escapade-completes-powered-earth-flybys-now-en-route-to-mars/",
+  "score": 4.0,
+  "summary": "NASA的ESCAPADE任务成功完成动力地球飞越，目前正处于前往火星的航程中。这标志着该深空探测任务取得了重要进展。"
+ },
+ {
+  "time": "2026-11-10 02:39",
+  "source": "NASA",
+  "kind": "新闻",
+  "field": "天文与航天",
+  "title": "CHAPEA Mission 2 Crew Reflects After 378 Days on Simulated Mars",
+  "link": "https://www.nasa.gov/centers-and-facilities/johnson/chapea-mission-2-crew-reflects-after-378-days-on-simulated-mars/",
+  "score": 4.0,
+  "summary": "CHAPEA任务二号乘员在经历378天的模拟火星生活后出舱并分享感受。该模拟实验对评估长期火星任务的人体适应性具有重要价值。"
+ },
+ {
+  "time": "2026-11-10 02:39",
+  "source": "Science 新闻",
+  "kind": "新闻",
+  "field": "生命科学",
+  "title": "AI beats scientists at finding errors in clinical research papers",
+  "link": "https://www.science.org/content/article/ai-beats-scientists-finding-errors-clinical-research-papers",
+  "score": 5.0,
+  "summary": "人工智能在临床研究论文查错方面击败了人类科学家。这一发现展示了AI在提升医学文献质量和科研诚信方面的巨大潜力。"
+ },
+ {
+  "time": "2026-11-10 02:39",
+  "source": "Nature",
+  "kind": "新闻",
+  "field": "地球与气候",
+  "title": "The super El Niño is more than a climate shock – it’s a health one, too",
+  "link": "https://www.nature.com/articles/d41586-026-03628-5",
+  "score": 4.0,
+  "summary": "研究表明超级厄尔尼诺现象不仅是气候冲击，也是一场健康危机。该成果揭示了极端气候对人类健康的深远影响。"
+ },
+ {
+  "time": "2026-11-10 02:39",
+  "source": "Nature",
+  "kind": "综述",
+  "field": "技术与工程",
+  "title": "AI has transformed maths — this is how we got here",
+  "link": "https://www.nature.com/articles/d41586-026-03627-6",
+  "score": 4.0,
+  "summary": "文章回顾了人工智能如何彻底改变数学研究的发展历程。这为理解AI在数学领域的应用与突破提供了重要视角。"
+ },
+ {
+  "time": "2026-11-10 02:39",
+  "source": "Nature Human Behaviour",
+  "kind": "论文",
+  "field": "其他",
+  "title": "A natural field experiment on the effectiveness of economic sanctions before and after the Russian invasion of Ukraine",
+  "link": "https://www.nature.com/articles/s41562-026-02591-5",
+  "score": 4.0,
+  "summary": "通过一项自然现场实验，评估了俄乌冲突前后经济制裁的有效性。该研究为国际政治经济学提供了实证数据支持。"
  }
 ]
