@@ -1468,5 +1468,25 @@
   "link": "https://www.nature.com/articles/s41562-026-02591-5",
   "score": 4.0,
   "summary": "通过一项自然现场实验，评估了俄乌冲突前后经济制裁的有效性。该研究为国际政治经济学提供了实证数据支持。"
+ },
+ {
+  "time": "2026-11-10 09:57",
+  "source": "NASA",
+  "kind": "新闻",
+  "field": "天文与航天",
+  "title": "NASA’s Chandra Finds Source of Star’s Mysterious Outbursts",
+  "link": "https://science.nasa.gov/missions/chandra/nasas-chandra-finds-source-of-stars-mysterious-outbursts/",
+  "score": 4.0,
+  "summary": "NASA的钱德拉X射线天文台找到了恒星神秘爆发的源头。这一观测成果揭示了特定天体活动的高能物理机制。"
+ },
+ {
+  "time": "2026-11-10 09:57",
+  "source": "Science 新闻",
+  "kind": "新闻",
+  "field": "技术与工程",
+  "title": "Neurons in a dish are the newest computing machines",
+  "link": "https://www.science.org/content/article/neurons-dish-are-newest-computing-machines",
+  "score": 4.0,
+  "summary": "研究人员利用培养皿中的神经元开发出新型计算机器，探索生物神经元进行计算的可能性。这项突破性进展结合了神经科学与计算工程。"
  }
 ]
