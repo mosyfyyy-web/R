@@ -1538,5 +1538,45 @@
   "link": "https://arxiv.org/abs/2611.10220",
   "score": 4.0,
   "summary": "对超新星SN 1987A在爆后200至800天期间的数据进行了全色光度与光谱综合建模分析。这深化了对超新星遗迹演化早期阶段的理解。"
+ },
+ {
+  "time": "2026-11-11 01:38",
+  "source": "NASA",
+  "kind": "新闻",
+  "field": "天文与航天",
+  "title": "NASA Scientists Show How Gravitational Waves Can Reveal New Worlds",
+  "link": "https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds/",
+  "score": 4.0,
+  "summary": "NASA科学家展示了引力波如何用于揭示新世界的存在。这项研究展示了引力波在天文学观测中的全新应用潜力。"
+ },
+ {
+  "time": "2026-11-11 01:38",
+  "source": "Nature",
+  "kind": "论文",
+  "field": "生命科学",
+  "title": "A practically perfect plesiosaur",
+  "link": "https://www.nature.com/articles/d41586-026-03278-7",
+  "score": 4.0,
+  "summary": "科学界报道了一个保存极其完好的蛇颈龙标本。这一发现为了解古生物形态和演化提供了近乎完美的化石证据。"
+ },
+ {
+  "time": "2026-11-11 01:38",
+  "source": "Nature",
+  "kind": "论文",
+  "field": "生命科学",
+  "title": "Some people are resistant to dementia — here’s what their genes can teach us",
+  "link": "https://www.nature.com/articles/d41586-026-03625-8",
+  "score": 4.0,
+  "summary": "部分人群对痴呆症具有抵抗力，其基因特性为人类提供了重要启示。这为理解和治疗阿尔茨海默病等神经退行性疾病提供了新靶点。"
+ },
+ {
+  "time": "2026-11-11 01:38",
+  "source": "Nature Astronomy",
+  "kind": "论文",
+  "field": "天文与航天",
+  "title": "Twin gas rings observed around a white dwarf",
+  "link": "https://www.nature.com/articles/s41550-026-03003-4",
+  "score": 4.0,
+  "summary": "天文学家观测到白矮星周围存在双气体环结构。这一观测结果丰富了对恒星演化末期物质抛射和行星系统命运的理解。"
  }
 ]
