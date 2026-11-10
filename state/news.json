@@ -1488,5 +1488,55 @@
   "link": "https://www.science.org/content/article/neurons-dish-are-newest-computing-machines",
   "score": 4.0,
   "summary": "研究人员利用培养皿中的神经元开发出新型计算机器，探索生物神经元进行计算的可能性。这项突破性进展结合了神经科学与计算工程。"
+ },
+ {
+  "time": "2026-11-10 17:37",
+  "source": "arXiv astro-ph",
+  "kind": "预印本",
+  "field": "天文与航天",
+  "title": "DMAJOR: A JWST Legacy Survey of Protoplanetary Disks",
+  "link": "https://arxiv.org/abs/2611.10103",
+  "score": 4.0,
+  "summary": "介绍了DMAJOR项目，这是一项利用JWST对原行星盘进行的遗迹巡天观测。该大型巡天项目有望为行星系统起源提供重要观测数据。"
+ },
+ {
+  "time": "2026-11-10 17:37",
+  "source": "arXiv astro-ph",
+  "kind": "预印本",
+  "field": "天文与航天",
+  "title": "First detection of the forbidden rotational spectrum of H$_3^+$: JWST/MIRI observations of the shocked gas in HH 168",
+  "link": "https://arxiv.org/abs/2611.10122",
+  "score": 4.0,
+  "summary": "利用JWST/MIRI首次探测到HH 168激波气体中H$_3^+$禁戒转动光谱。这在分子天体物理观测上具有重要突破意义。"
+ },
+ {
+  "time": "2026-11-10 17:37",
+  "source": "arXiv astro-ph",
+  "kind": "预印本",
+  "field": "天文与航天",
+  "title": "First detection of suprathermal CH$^+$ rotational emissions from chemical pumping: JWST/MIRI observations of the HH 168 molecular shock",
+  "link": "https://arxiv.org/abs/2611.10125",
+  "score": 4.0,
+  "summary": "通过JWST/MIRI首次探测到HH 168分子激波中来自化学泵浦的超热CH$^+$转动发射。该发现加深了对激波化学过程的理解。"
+ },
+ {
+  "time": "2026-11-10 17:37",
+  "source": "arXiv astro-ph",
+  "kind": "预印本",
+  "field": "天文与航天",
+  "title": "The deuterium-rich atmosphere of a mature super-Jupiter",
+  "link": "https://arxiv.org/abs/2611.10129",
+  "score": 4.0,
+  "summary": "报道了一个成熟超级木星富含氘的大气层特征。这对于理解巨行星的形成历史和大气成分具有重要价值。"
+ },
+ {
+  "time": "2026-11-10 17:37",
+  "source": "arXiv astro-ph",
+  "kind": "预印本",
+  "field": "天文与航天",
+  "title": "A panchromatic photometric and spectroscopic modeling of SN1987A from 200 to 800d",
+  "link": "https://arxiv.org/abs/2611.10220",
+  "score": 4.0,
+  "summary": "对超新星SN 1987A在爆后200至800天期间的数据进行了全色光度与光谱综合建模分析。这深化了对超新星遗迹演化早期阶段的理解。"
  }
 ]
