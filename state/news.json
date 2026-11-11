@@ -1598,5 +1598,145 @@
   "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2538105123?af=R",
   "score": 4.0,
   "summary": "研究揭示了华北地区海洋与中低纬度陆地二叠纪末大灭绝达到顶峰的同步性。对理解地球历史上最大规模的灭绝事件具有重要价值。"
+ },
+ {
+  "time": "2026-11-12 05:13",
+  "source": "Science 新闻",
+  "kind": "新闻",
+  "field": "物理与化学",
+  "title": "AI rivals tackle one of physics’ deepest mathematical challenges",
+  "link": "https://www.science.org/content/article/ai-rivals-tackle-one-physics-deepest-mathematical-challenges",
+  "score": 4.0,
+  "summary": "Science报道了人工智能技术成功应对物理学中最深奥的数学挑战之一。这展示了AI在解决基础科学难题方面的巨大潜力。"
+ },
+ {
+  "time": "2026-11-12 05:13",
+  "source": "Science 新闻",
+  "kind": "新闻",
+  "field": "地球与气候",
+  "title": "Satellites and boots on the ground uncover rampant gas flaring in Ecuador’s Amazon",
+  "link": "https://www.science.org/content/article/satellites-and-boots-ground-uncover-rampant-gas-flaring-ecuador-s-amazon",
+  "score": 4.0,
+  "summary": "通过卫星监测与地面调查相结合，Science揭示了厄瓜多尔亚马逊地区猖獗的天然气燃烧放空现象。这一发现对环境监管和亚马逊生态保护具有重要意义。"
+ },
+ {
+  "time": "2026-11-12 05:13",
+  "source": "Nature",
+  "kind": "新闻",
+  "field": "生命科学",
+  "title": "Rattlesnakes have personalities too — to venomous effect",
+  "link": "https://www.nature.com/articles/d41586-026-03536-8",
+  "score": 4.0,
+  "summary": "Nature报道了响尾蛇也具有独特的个性，并且这种个性会对其毒液产生影响。这一发现丰富了人们对动物行为生态学和毒液演化的理解。"
+ },
+ {
+  "time": "2026-11-12 05:13",
+  "source": "Nature",
+  "kind": "新闻",
+  "field": "天文与航天",
+  "title": "Iconic first image of black hole holds up to scrutiny",
+  "link": "https://www.nature.com/articles/d41586-026-03642-7",
+  "score": 4.0,
+  "summary": "Nature报道称，黑洞的首张标志性照片经受住了进一步的科学检验。这增强了人们对事件视界望远镜观测结果及其底层物理学解释的信心。"
+ },
+ {
+  "time": "2026-11-12 05:13",
+  "source": "Nature",
+  "kind": "新闻",
+  "field": "地球与气候",
+  "title": "Too dry for cacti: extreme droughts could push iconic species to extinction",
+  "link": "https://www.nature.com/articles/d41586-026-03671-2",
+  "score": 4.0,
+  "summary": "Nature指出，极端干旱可能将仙人掌等标志性物种推向灭绝边缘。这凸显了气候变暖对全球干旱生态系统的严重威胁。"
+ },
+ {
+  "time": "2026-11-12 05:13",
+  "source": "Nature",
+  "kind": "论文",
+  "field": "物理与化学",
+  "title": "Efficient catalyst-controlled C–H arylation of arenes",
+  "link": "https://www.nature.com/articles/s41586-026-11391-w",
+  "score": 4.0,
+  "summary": "本文报道了一种高效的、由催化剂控制的芳烃C–H芳基化反应。该方法为有机合成化学提供了更高效的分子构建途径。"
+ },
+ {
+  "time": "2026-11-12 05:13",
+  "source": "Nature",
+  "kind": "新闻",
+  "field": "生命科学",
+  "title": "Even giant anteaters in remote Brazil have microplastics in their blood",
+  "link": "https://www.nature.com/articles/d41586-026-03660-5",
+  "score": 4.0,
+  "summary": "Nature报道称，甚至在偏远巴西地区的巨食蚁兽血液中也检测到了微塑料。这表明微塑料污染已经渗透到偏远生态系统的顶级或特化物种中。"
+ },
+ {
+  "time": "2026-11-12 05:13",
+  "source": "Nature",
+  "kind": "论文",
+  "field": "天文与航天",
+  "title": "Salty grains in Saturn’s outermost ring formed from the slow freeze of plumes from the moon Enceladus",
+  "link": "https://www.nature.com/articles/d41586-026-03489-y",
+  "score": 4.0,
+  "summary": "研究发现土星最外层环中的含盐颗粒是由土卫二（Enceladus）喷流缓慢冻结形成的。这一发现深化了对土星环起源及冰卫星内部海洋物质喷发的认识。"
+ },
+ {
+  "time": "2026-11-12 05:13",
+  "source": "Nature",
+  "kind": "新闻",
+  "field": "地球与气候",
+  "title": "Cacti are severely threatened by drought in a warming world",
+  "link": "https://www.nature.com/articles/d41586-026-03496-z",
+  "score": 4.0,
+  "summary": "Nature报道在变暖的世界中，仙人掌正受到干旱的严重威胁。这为全球气候变化对特定植物类群的生态冲击提供了新的证据。"
+ },
+ {
+  "time": "2026-11-12 05:13",
+  "source": "Nature",
+  "kind": "新闻",
+  "field": "生命科学",
+  "title": "DeepMind's ultra-powerful AI for genome mapping wows scientists",
+  "link": "https://www.nature.com/articles/d41586-026-03673-0",
+  "score": 5.0,
+  "summary": "Nature报道了DeepMind开发的用于基因组作图的超强AI惊艳了科学家。该工具展现出强大的基因组学研究能力，有望加速生命科学领域的发展。"
+ },
+ {
+  "time": "2026-11-12 05:13",
+  "source": "Nature",
+  "kind": "论文",
+  "field": "生命科学",
+  "title": "Proteins that form the nuclear pore barrier move like liquids",
+  "link": "https://www.nature.com/articles/d41586-026-03428-x",
+  "score": 4.0,
+  "summary": "研究发现构成核孔屏障的蛋白质像液体一样运动。这一成果加深了对细胞核质运输机制和生物分子凝聚体物理性质的理解。"
+ },
+ {
+  "time": "2026-11-12 05:13",
+  "source": "Science Advances",
+  "kind": "论文",
+  "field": "物理与化学",
+  "title": "Passive imaging with quantum advantage",
+  "link": "https://www.science.org/doi/abs/10.1126/sciadv.aei1896?af=R",
+  "score": 4.0,
+  "summary": "本文实现了具有量子优势的无源成像（Passive imaging）。这一突破有望提升低光照或其他极端条件下的成像灵敏度和分辨率。"
+ },
+ {
+  "time": "2026-11-12 05:13",
+  "source": "Science Advances",
+  "kind": "论文",
+  "field": "天文与航天",
+  "title": "A primordial heavy water reservoir in the outer solar system",
+  "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeg1602?af=R",
+  "score": 4.0,
+  "summary": "研究在太阳系外围发现了原始重水储库。这为理解太阳系早期演化、水资源的起源以及彗星和小行星的成分提供了关键线索。"
+ },
+ {
+  "time": "2026-11-12 05:13",
+  "source": "Science Advances",
+  "kind": "论文",
+  "field": "天文与航天",
+  "title": "Discovery of a likely supermassive neutron star in a remarkably wide binary",
+  "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeg3307?af=R",
+  "score": 4.0,
+  "summary": "研究报道在显著宽距的双星系统中发现了一颗极可能是超大质量的中子星。这一发现对极端致密星的质量上限和双星演化理论提出了新的挑战。"
  }
 ]
