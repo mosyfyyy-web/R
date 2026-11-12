@@ -1738,5 +1738,45 @@
   "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeg3307?af=R",
   "score": 4.0,
   "summary": "研究报道在显著宽距的双星系统中发现了一颗极可能是超大质量的中子星。这一发现对极端致密星的质量上限和双星演化理论提出了新的挑战。"
+ },
+ {
+  "time": "2026-11-12 10:49",
+  "source": "Science 新闻",
+  "kind": "新闻",
+  "field": "技术与工程",
+  "title": "Did an AI or a human write that paper? New detector decides by examining its ideas",
+  "link": "https://www.science.org/content/article/did-ai-or-human-write-paper-new-detector-decides-examining-its-ideas",
+  "score": 4.0,
+  "summary": "开发出一种通过检查论文理念来判断其是由AI还是人类撰写的新检测器。这有助于应对学术界不断增长的AI生成内容挑战。"
+ },
+ {
+  "time": "2026-11-12 10:49",
+  "source": "Science 新闻",
+  "kind": "新闻",
+  "field": "技术与工程",
+  "title": "Problems in 22 scientific fields had solutions hiding in plain sight. An AI has found them",
+  "link": "https://www.science.org/content/article/problems-22-scientific-fields-had-solutions-hiding-plain-sight-ai-has-found-them",
+  "score": 5.0,
+  "summary": "人工智能在22个科学领域中发现了显而易见却长期被忽视的问题解决方案。这一重大成果展示了AI在跨学科科研突破中的巨大潜力。"
+ },
+ {
+  "time": "2026-11-12 10:49",
+  "source": "Science 新闻",
+  "kind": "新闻",
+  "field": "天文与航天",
+  "title": "Audacious space heist aims to bring home bits of mysterious martian moon",
+  "link": "https://www.science.org/content/article/audacious-space-heist-japan-aims-bring-home-bits-martian-moon",
+  "score": 4.0,
+  "summary": "一项大胆的太空任务旨在将神秘火星卫星的样本带回地球。该任务具有高度的探索价值和挑战性。"
+ },
+ {
+  "time": "2026-11-12 10:49",
+  "source": "Science 新闻",
+  "kind": "新闻",
+  "field": "生命科学",
+  "title": "Two teams map development of mammal embryos, cell by cell",
+  "link": "https://www.science.org/content/article/two-teams-map-development-mammal-embryos-cell-cell",
+  "score": 4.0,
+  "summary": "两个团队以单细胞精度绘制了哺乳动物胚胎的发育图谱。这为理解哺乳动物早期发育提供了极为详尽的数据。"
  }
 ]

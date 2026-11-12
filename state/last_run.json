@@ -1,9 +1,9 @@
 {
- "time": "2026-11-12 05:13",
+ "time": "2026-11-12 10:49",
  "sources": {
   "NASA": 10,
   "ESA": "失败: not well-formed (invalid token): line 45, column 39",
-  "Science 新闻": 10,
+  "Science 新闻": 9,
   "Nature": 12,
   "Nature Astronomy": 8,
   "Nature Human Behaviour": 8,
@@ -11,8 +11,8 @@
   "PNAS": 12,
   "arXiv astro-ph": 12
  },
- "new_items": 28,
- "kept": 14,
- "raindrop": "ok, 添加 14 条",
+ "new_items": 11,
+ "kept": 4,
+ "raindrop": "ok, 添加 4 条",
  "pushed": 1
 }
