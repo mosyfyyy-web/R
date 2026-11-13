@@ -1818,5 +1818,35 @@
   "link": "https://www.nature.com/articles/s41550-026-03016-z",
   "score": 4.0,
   "summary": "天文学家报告了一个拥有类太阳伴星的长周期暂现源。该发现丰富了对宇宙中罕见长周期暂现天体及其演化机制的理解。"
+ },
+ {
+  "time": "2026-11-13 08:06",
+  "source": "Science 新闻",
+  "kind": "新闻",
+  "field": "生命科学",
+  "title": "Long-overlooked Alzheimer’s hypothesis makes a comeback",
+  "link": "https://www.science.org/content/article/long-overlooked-alzheimer-s-hypothesis-makes-comeback",
+  "score": 4.0,
+  "summary": "一项长期被忽视的阿尔茨海默病假说在科学界重新受到关注。该进展可能为理解和治疗该疾病提供新的视角和研究方向，对神经科学领域具有重要意义。"
+ },
+ {
+  "time": "2026-11-13 08:06",
+  "source": "Nature",
+  "kind": "新闻",
+  "field": "生命科学",
+  "title": "Record-breaking Ebola outbreak: phone data reconstruct first weeks of spread",
+  "link": "https://www.nature.com/articles/d41586-026-03666-z",
+  "score": 4.0,
+  "summary": "研究人员利用手机数据成功重建了一次破纪录的埃博拉疫情最初几周的传播轨迹。该方法展示了大数据在追踪传染病暴发和公共卫生应急管理中的巨大潜力。"
+ },
+ {
+  "time": "2026-11-13 08:06",
+  "source": "Nature",
+  "kind": "新闻",
+  "field": "生命科学",
+  "title": "Novel CRISPR therapy is poised to gain first FDA approval to alter genes inside the body",
+  "link": "https://www.nature.com/articles/d41586-026-03705-9",
+  "score": 5.0,
+  "summary": "一项新型 CRISPR 疗法即将获得美国 FDA 的首次批准，用于在人体内直接编辑基因。这是基因编辑技术临床应用的一个重要里程碑，对医学领域具有深远影响。"
  }
 ]
