@@ -1858,5 +1858,25 @@
   "link": "https://www.nature.com/articles/d41586-026-03638-3",
   "score": 4.0,
   "summary": "研究人员发现了一种在不引发炎症的情况下驱动衰老的蛋白质。这一发现揭示了衰老过程中的新机制，对理解和干预衰老具有重要意义。"
+ },
+ {
+  "time": "2026-11-13 23:17",
+  "source": "Nature",
+  "kind": "论文",
+  "field": "技术与工程",
+  "title": "This AI ‘mechanic’ can peer inside the black box of other neural networks",
+  "link": "https://www.nature.com/articles/d41586-026-03679-8",
+  "score": 4.0,
+  "summary": "《自然》报道了一种能够透视其他神经网络“黑箱”的AI“机械师”工具。该研究有助于提升复杂深度学习模型的可解释性。"
+ },
+ {
+  "time": "2026-11-13 23:17",
+  "source": "Nature Astronomy",
+  "kind": "论文",
+  "field": "天文与航天",
+  "title": "A catalogue of insights from the fourth LIGO–Virgo–KAGRA observing run",
+  "link": "https://www.nature.com/articles/s41550-026-03011-4",
+  "score": 5.0,
+  "summary": "《自然·天文学》发布了LIGO–Virgo–KAGRA第四次观测运行的综合洞察目录。这为引力波天文学提供了大规模的重要观测数据与统计分析。"
  }
 ]
