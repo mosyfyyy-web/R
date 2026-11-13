@@ -1878,5 +1878,45 @@
   "link": "https://www.nature.com/articles/s41550-026-03011-4",
   "score": 5.0,
   "summary": "《自然·天文学》发布了LIGO–Virgo–KAGRA第四次观测运行的综合洞察目录。这为引力波天文学提供了大规模的重要观测数据与统计分析。"
+ },
+ {
+  "time": "2026-11-14 05:54",
+  "source": "Nature Astronomy",
+  "kind": "论文",
+  "field": "天文与航天",
+  "title": "Curtain call for two strongly lensed supernovae",
+  "link": "https://www.nature.com/articles/s41550-026-03033-y",
+  "score": 4.0,
+  "summary": "研究报道了两个强引力透镜超新星的“谢幕”观测结果。这为研究宇宙膨胀速率和引力透镜效应提供了宝贵的数据支持。"
+ },
+ {
+  "time": "2026-11-14 05:54",
+  "source": "Science Advances",
+  "kind": "论文",
+  "field": "生命科学",
+  "title": "The persistent multidomain health effects of the early-life exposome",
+  "link": "https://www.science.org/doi/abs/10.1126/sciadv.aec2089?af=R",
+  "score": 4.0,
+  "summary": "研究探讨了生命早期暴露组对健康造成的持续性多域影响。该成果有助于阐明环境因素在整个人生健康轨迹中的长期作用机制。"
+ },
+ {
+  "time": "2026-11-14 05:54",
+  "source": "Science Advances",
+  "kind": "论文",
+  "field": "地球与气候",
+  "title": "An end-to-end machine-learning system for global eddy-resolving ocean forecast",
+  "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeh9058?af=R",
+  "score": 4.0,
+  "summary": "开发了一个端到端的机器学习系统，用于全球中尺度涡旋解析的海洋预报。该系统显著提升了海洋动力过程预报的精度和效率。"
+ },
+ {
+  "time": "2026-11-14 05:54",
+  "source": "Science Advances",
+  "kind": "论文",
+  "field": "生命科学",
+  "title": "MAIT cells exacerbate early liver fibrosis by downsizing the intrahepatic regulatory T cell compartment",
+  "link": "https://www.science.org/doi/abs/10.1126/sciadv.aej0496?af=R",
+  "score": 4.0,
+  "summary": "研究发现MAIT细胞通过缩减肝内调节性T细胞群落来加剧早期肝纤维化。该机制为理解肝脏免疫调节与纤维化病变提供了新的治疗靶点。"
  }
 ]
