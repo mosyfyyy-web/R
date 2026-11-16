@@ -1918,5 +1918,55 @@
   "link": "https://www.science.org/doi/abs/10.1126/sciadv.aej0496?af=R",
   "score": 4.0,
   "summary": "研究发现MAIT细胞通过缩减肝内调节性T细胞群落来加剧早期肝纤维化。该机制为理解肝脏免疫调节与纤维化病变提供了新的治疗靶点。"
+ },
+ {
+  "time": "2026-11-17 04:16",
+  "source": "NASA",
+  "kind": "新闻",
+  "field": "天文与航天",
+  "title": "Sentinel-6B in Orbit Around Earth",
+  "link": "https://science.nasa.gov/photojournal/sentinel-6b-in-orbit-around-earth/",
+  "score": 4.0,
+  "summary": "NASA的Sentinel-6B卫星已成功进入地球轨道。该卫星的发射对于持续监测全球海平面变化和海洋动力学具有重要意义。"
+ },
+ {
+  "time": "2026-11-17 04:16",
+  "source": "Nature",
+  "kind": "综述",
+  "field": "地球与气候",
+  "title": "The climate is in crisis — here’s four things we can do",
+  "link": "https://www.nature.com/articles/d41586-026-03760-2",
+  "score": 4.0,
+  "summary": "文章指出气候正处于危机之中，并提出了应对气候变化的四项具体行动建议。这对于指导全球气候治理和政策制定具有重要参考价值。"
+ },
+ {
+  "time": "2026-11-17 04:16",
+  "source": "Nature",
+  "kind": "论文",
+  "field": "生命科学",
+  "title": "Architecture of a portal complex embedded in the poxvirus core",
+  "link": "https://www.nature.com/articles/s41586-026-11399-2",
+  "score": 4.0,
+  "summary": "研究揭示了嵌入痘病毒核心的孔道复合体的三维结构。该发现有助于深入理解痘病毒的复制机制和生命周期。"
+ },
+ {
+  "time": "2026-11-17 04:16",
+  "source": "Nature",
+  "kind": "新闻",
+  "field": "生命科学",
+  "title": "Chinese scientist sacked after child died in gene-editing trial",
+  "link": "https://www.nature.com/articles/d41586-026-03752-2",
+  "score": 4.0,
+  "summary": "一名中国科学家因在基因编辑试验中导致儿童死亡而被解职。该事件凸显了国际科学界对基因编辑临床试验伦理违规行为的零容忍。"
+ },
+ {
+  "time": "2026-11-17 04:16",
+  "source": "Nature Human Behaviour",
+  "kind": "论文",
+  "field": "心理与神经",
+  "title": "Causal role of human hippocampus in relational structure learning and inference",
+  "link": "https://www.nature.com/articles/s41562-026-02627-w",
+  "score": 4.0,
+  "summary": "研究揭示了人类海马体在关系结构学习和推理中的因果作用。该发现在认知神经科学领域具有重要价值，深化了对人类记忆与学习机制的理解。"
  }
 ]
