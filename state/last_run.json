@@ -1,9 +1,9 @@
 {
- "time": "2026-11-17 11:40",
+ "time": "2026-11-17 21:04",
  "sources": {
   "NASA": 10,
   "ESA": 0,
-  "Science 新闻": 9,
+  "Science 新闻": 10,
   "Nature": 12,
   "Nature Astronomy": 8,
   "Nature Human Behaviour": 8,
@@ -11,8 +11,7 @@
   "PNAS": 12,
   "arXiv astro-ph": 12
  },
- "new_items": 7,
- "kept": 2,
- "raindrop": "ok, 添加 2 条",
- "pushed": 1
+ "new_items": 26,
+ "kept": 3,
+ "raindrop": "ok, 添加 3 条"
 }
