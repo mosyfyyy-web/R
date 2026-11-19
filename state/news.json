@@ -2228,5 +2228,25 @@
   "link": "https://www.science.org/content/article/nih-director-calls-new-probe-controversial-covid-19-origin-paper",
   "score": 4.0,
   "summary": "美国国立卫生研究院（NIH）局长呼吁对一篇具有争议的COVID-19起源论文进行新的调查。该事件涉及科学界对病毒溯源的核心关切，对学术界与公共政策具有重要影响。"
+ },
+ {
+  "time": "2026-11-19 20:48",
+  "source": "Nature",
+  "kind": "论文",
+  "field": "心理与神经",
+  "title": "Sore throat? The brain has surprising control over how ill you feel",
+  "link": "https://www.nature.com/articles/d41586-026-03774-w",
+  "score": 4.0,
+  "summary": "研究发现大脑对咽痛等身体不适感具有惊人的控制能力。这一发现揭示了神经系统调节躯体症状的潜在机制，对理解脑-体交互具有重要意义。"
+ },
+ {
+  "time": "2026-11-19 20:48",
+  "source": "arXiv astro-ph",
+  "kind": "预印本",
+  "field": "天文与航天",
+  "title": "Orbital parameters for 50 million stars observed by Gaia and spectroscopic surveys",
+  "link": "https://arxiv.org/abs/2611.23411",
+  "score": 4.0,
+  "summary": "整合Gaia观测与光谱巡天数据，给出了5000万颗恒星的轨道参数。这一大规模星系动力学数据集对研究银河系结构具有重要价值。"
  }
 ]
