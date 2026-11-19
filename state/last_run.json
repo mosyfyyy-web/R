@@ -1,5 +1,5 @@
 {
- "time": "2026-11-19 05:18",
+ "time": "2026-11-19 11:08",
  "sources": {
   "NASA": 10,
   "ESA": 0,
@@ -11,8 +11,7 @@
   "PNAS": 12,
   "arXiv astro-ph": 12
  },
- "new_items": 32,
- "kept": 11,
- "raindrop": "ok, 添加 11 条",
- "pushed": 3
+ "new_items": 2,
+ "kept": 1,
+ "raindrop": "ok, 添加 1 条"
 }
