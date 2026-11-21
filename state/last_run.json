@@ -1,5 +1,5 @@
 {
- "time": "2026-11-21 09:20",
+ "time": "2026-11-21 17:34",
  "sources": {
   "NASA": 10,
   "ESA": 0,
@@ -9,10 +9,9 @@
   "Nature Human Behaviour": 8,
   "Science Advances": 12,
   "PNAS": 12,
-  "arXiv astro-ph": 12
+  "arXiv astro-ph": 0
  },
- "new_items": 16,
- "kept": 3,
- "raindrop": "ok, 添加 3 条",
- "pushed": 1
+ "new_items": 2,
+ "kept": 1,
+ "raindrop": "ok, 添加 1 条"
 }
