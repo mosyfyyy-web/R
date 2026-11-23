@@ -2448,5 +2448,85 @@
   "link": "https://www.nature.com/articles/d41586-026-03803-8",
   "score": 5.0,
   "summary": "经过八年的漫长太空之旅，BepiColombo探测器终于成功抵达水星。这一重大航天里程碑将开启对水星及其磁场和演化历史的深入探测。"
+ },
+ {
+  "time": "2026-11-24 05:10",
+  "source": "NASA",
+  "kind": "新闻",
+  "field": "天文与航天",
+  "title": "NASA Seeks Partners to Design First Nuclear Reactor for the Moon",
+  "link": "https://www.nasa.gov/directorates/rtmd/nasa-seeks-partners-to-design-first-nuclear-reactor-for-the-moon/",
+  "score": 4.0,
+  "summary": "NASA正在寻求合作伙伴来设计首个月球核反应堆。此举旨在为未来的月球长期探测和基地建设提供可靠的持续电力支持。"
+ },
+ {
+  "time": "2026-11-24 05:10",
+  "source": "NASA",
+  "kind": "新闻",
+  "field": "天文与航天",
+  "title": "NASA’s Webb Shows How Supernova Dust Chronicles Star Evolution",
+  "link": "https://science.nasa.gov/missions/webb/nasas-webb-shows-how-supernova-dust-chronicles-star-evolution/",
+  "score": 4.0,
+  "summary": "詹姆斯·韦布空间望远镜展示了超新星尘埃如何记录恒星的演化历史。这一观测成果为理解宇宙中物质的循环与演化提供了重要线索。"
+ },
+ {
+  "time": "2026-11-24 05:10",
+  "source": "Science 新闻",
+  "kind": "新闻",
+  "field": "地球与气候",
+  "title": "At both poles, warm water is eating away sea ice from below",
+  "link": "https://www.science.org/content/article/both-poles-warm-water-eating-away-sea-ice-below",
+  "score": 4.0,
+  "summary": "科学新闻报道显示，在南极和北极两地，温暖的海水都在从底部侵蚀海冰。这加剧了人们对极地海冰加速消融及其对全球气候影响的担忧。"
+ },
+ {
+  "time": "2026-11-24 05:10",
+  "source": "Nature",
+  "kind": "论文",
+  "field": "物理与化学",
+  "title": "Hexa-substituted benzene synthesis with non-classical carbocations",
+  "link": "https://www.nature.com/articles/s41586-026-11449-9",
+  "score": 4.0,
+  "summary": "该研究报道了利用非经典碳正离子合成六取代苯的方法。这拓展了有机化学中复杂芳香化合物的合成路径。"
+ },
+ {
+  "time": "2026-11-24 05:10",
+  "source": "Nature",
+  "kind": "论文",
+  "field": "物理与化学",
+  "title": "Continuous N-to-C Peptide Synthesis",
+  "link": "https://www.nature.com/articles/s41586-026-11448-w",
+  "score": 4.0,
+  "summary": "该论文实现了从N端到C端的连续肽合成方法。该技术有望提升多肽合成的效率和自动化水平。"
+ },
+ {
+  "time": "2026-11-24 05:10",
+  "source": "Nature",
+  "kind": "论文",
+  "field": "生命科学",
+  "title": "Architecture of the poxvirus early-transcription machinery and portal complex",
+  "link": "https://www.nature.com/articles/s41586-026-11458-8",
+  "score": 4.0,
+  "summary": "研究揭示了痘病毒早期转录机器和门户复合体的三维结构。这为理解痘病毒的复制机制提供了重要的结构生物学基础。"
+ },
+ {
+  "time": "2026-11-24 05:10",
+  "source": "Nature Human Behaviour",
+  "kind": "论文",
+  "field": "心理与神经",
+  "title": "Towards population-specific brain charts across the lifespan",
+  "link": "https://www.nature.com/articles/s41562-026-02596-0",
+  "score": 4.0,
+  "summary": "研究致力于建立全生命周期中针对不同人群的特定大脑图谱。这为神经科学研究提供了更精准的跨群体对照基准。"
+ },
+ {
+  "time": "2026-11-24 05:10",
+  "source": "Nature Human Behaviour",
+  "kind": "论文",
+  "field": "心理与神经",
+  "title": "Linguistic contextualization in the human hippocampus",
+  "link": "https://www.nature.com/articles/s41562-026-02543-z",
+  "score": 4.0,
+  "summary": "该研究揭示了人类海马体中的语言语境化机制。这加深了我们对大脑处理语言和记忆整合神经机制的理解。"
  }
 ]
