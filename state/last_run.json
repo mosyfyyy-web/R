@@ -1,5 +1,5 @@
 {
- "time": "2026-11-24 13:52",
+ "time": "2026-11-25 01:27",
  "sources": {
   "NASA": 10,
   "ESA": "失败: not well-formed (invalid token): line 46, column 39",
@@ -9,8 +9,11 @@
   "Nature Human Behaviour": 8,
   "Science Advances": 12,
   "PNAS": 12,
-  "arXiv astro-ph": 0
+  "arXiv astro-ph": 12
  },
- "new_items": 2,
+ "new_items": 32,
+ "llm_errors": [
+  "所有模型失败: 503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/openai/chat/completions"
+ ],
  "kept": 0
 }
