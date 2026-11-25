@@ -1,5 +1,5 @@
 {
- "time": "2026-11-25 10:12",
+ "time": "2026-11-25 20:33",
  "sources": {
   "NASA": 10,
   "ESA": "失败: not well-formed (invalid token): line 46, column 39",
@@ -11,7 +11,7 @@
   "PNAS": 12,
   "arXiv astro-ph": 12
  },
- "new_items": 40,
- "kept": 7,
- "raindrop": "ok, 添加 7 条"
+ "new_items": 37,
+ "kept": 3,
+ "raindrop": "ok, 添加 3 条"
 }

@@ -2598,5 +2598,35 @@
   "link": "https://www.nature.com/articles/s41562-026-02615-0",
   "score": 4.0,
   "summary": "提供了关于AI对人类影响的八个方面的实证证据。系统评估了人工智能在现实中对人类行为和社会产生的影响。"
+ },
+ {
+  "time": "2026-11-25 20:33",
+  "source": "Nature",
+  "kind": "新闻",
+  "field": "生命科学",
+  "title": "A powerful HIV vaccine is finally within reach — thanks to these super antibodies",
+  "link": "https://www.nature.com/articles/d41586-026-03718-4",
+  "score": 4.0,
+  "summary": "报道了基于广谱中和超抗体的艾滋病（HIV）疫苗研发取得突破性进展。这使高效HIV疫苗的问世成为可能，为全球艾滋病预防带来了重要希望。"
+ },
+ {
+  "time": "2026-11-25 20:33",
+  "source": "Nature",
+  "kind": "新闻",
+  "field": "技术与工程",
+  "title": "‘If we can solve Riemann, what can’t we do?’: mathematicians shocked and excited by AI breakthroughs",
+  "link": "https://www.nature.com/articles/d41586-026-03835-0",
+  "score": 4.0,
+  "summary": "报道了人工智能在解决数学难题（如黎曼猜想探索）及自动定理证明领域取得的突破性进展。这展示了AI赋能基础科学研究的巨大潜力，引发了数学界的高度关注。"
+ },
+ {
+  "time": "2026-11-25 20:33",
+  "source": "arXiv astro-ph",
+  "kind": "预印本",
+  "field": "天文与航天",
+  "title": "JWST/NIRSpec observations of AMORE6 suggest active Pop~III star formation in a self-polluted galaxy",
+  "link": "https://arxiv.org/abs/2611.31355",
+  "score": 4.0,
+  "summary": "通过JWST/NIRSpec对AMORE6星系的观测，研究人员发现该自污染星系中可能存在活跃的原初星（Pop III）恒星形成活动。这一发现对理解早期宇宙第一代恒星的诞生具有重要意义。"
  }
 ]
