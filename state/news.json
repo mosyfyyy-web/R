@@ -2528,5 +2528,75 @@
   "link": "https://www.nature.com/articles/s41562-026-02543-z",
   "score": 4.0,
   "summary": "该研究揭示了人类海马体中的语言语境化机制。这加深了我们对大脑处理语言和记忆整合神经机制的理解。"
+ },
+ {
+  "time": "2026-11-25 10:12",
+  "source": "NASA",
+  "kind": "新闻",
+  "field": "天文与航天",
+  "title": "Webb Reveals New Details in Supernova Remnant",
+  "link": "https://www.nasa.gov/image-article/webb-reveals-new-details-in-supernova-remnant/",
+  "score": 4.0,
+  "summary": "韦布空间望远镜揭示了超新星遗迹的新细节。这有助于更好地理解恒星演化与遗迹结构。"
+ },
+ {
+  "time": "2026-11-25 10:12",
+  "source": "NASA",
+  "kind": "新闻",
+  "field": "天文与航天",
+  "title": "NASA’s Titan-Bound Dragonfly Rotorcraft Gets Its Eyes",
+  "link": "https://science.nasa.gov/missions/dragonfly/nasas-titan-bound-dragonfly-rotorcraft-gets-its-eyes/",
+  "score": 4.0,
+  "summary": "NASA前往土卫六的“蜻蜓”旋翼机获得了它的“眼睛”（相机系统）。这推进了该深空探测任务的研制进程。"
+ },
+ {
+  "time": "2026-11-25 10:12",
+  "source": "Nature",
+  "kind": "综述",
+  "field": "生命科学",
+  "title": "The brain keeps the score: how trauma leaves molecular scars in cells",
+  "link": "https://www.nature.com/articles/d41586-026-03821-6",
+  "score": 4.0,
+  "summary": "探讨了创伤如何在细胞层面留下分子疤痕，揭示了大脑与身体记录压力和创伤的生物学机制。有助于理解创伤后应激等病理过程。"
+ },
+ {
+  "time": "2026-11-25 10:12",
+  "source": "Nature",
+  "kind": "新闻",
+  "field": "技术与工程",
+  "title": "Watch out, AlphaFold: Claude and ChatGPT’s new biology skills wow scientists",
+  "link": "https://www.nature.com/articles/d41586-026-03836-z",
+  "score": 4.0,
+  "summary": "Claude和ChatGPT展现出的全新生物学技能让科学家惊叹，对AlphaFold等专业工具构成了关注。展示了大语言模型在生命科学领域的扩展能力。"
+ },
+ {
+  "time": "2026-11-25 10:12",
+  "source": "Nature",
+  "kind": "论文",
+  "field": "生命科学",
+  "title": "How acidic compounds in human sweat open a mosquito ion channel",
+  "link": "https://www.nature.com/articles/d41586-026-03381-9",
+  "score": 4.0,
+  "summary": "揭示了人类汗液中的酸性化合物如何激活蚊子的离子通道。这有助于理解蚊子寻找宿主的机制并改进驱蚊技术。"
+ },
+ {
+  "time": "2026-11-25 10:12",
+  "source": "Nature",
+  "kind": "评论",
+  "field": "其他",
+  "title": "AI is ‘the end of mathematics as we know it’ — where does the field go next?",
+  "link": "https://www.nature.com/articles/d41586-026-03719-3",
+  "score": 4.0,
+  "summary": "探讨AI是否是“我们所知的数学的终结”以及该领域未来的走向。引发了对人工智能时代数学研究范式转变的讨论。"
+ },
+ {
+  "time": "2026-11-25 10:12",
+  "source": "Nature Human Behaviour",
+  "kind": "论文",
+  "field": "心理与神经",
+  "title": "Empirical evidence for eight ways that AI is impacting people",
+  "link": "https://www.nature.com/articles/s41562-026-02615-0",
+  "score": 4.0,
+  "summary": "提供了关于AI对人类影响的八个方面的实证证据。系统评估了人工智能在现实中对人类行为和社会产生的影响。"
  }
 ]
