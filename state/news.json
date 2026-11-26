@@ -2808,5 +2808,45 @@
   "link": "https://www.science.org/content/article/europe-s-earliest-farmers-offered-milk-their-dead",
   "score": 4.0,
   "summary": "欧洲最早的农民被发现曾将牛奶作为祭品献给死者。这一考古发现揭示了早期农耕社群的特殊丧葬习俗与饮食文化，对理解当时的人类行为具有重要意义。"
+ },
+ {
+  "time": "2026-11-26 22:57",
+  "source": "Nature Astronomy",
+  "kind": "论文",
+  "field": "天文与航天",
+  "title": "Lower central dark matter densities in nearby galaxies than predicted by simulations",
+  "link": "https://www.nature.com/articles/s41550-026-03017-y",
+  "score": 4.0,
+  "summary": "研究发现附近星系中心的暗物质密度低于当前模拟的预测值。这一结果对现有的星系形成与暗物质模型提出了新的挑战。"
+ },
+ {
+  "time": "2026-11-26 22:57",
+  "source": "Nature Astronomy",
+  "kind": "论文",
+  "field": "天文与航天",
+  "title": "A faint progenitor system for the faint Iax supernova 2024vjm",
+  "link": "https://www.nature.com/articles/s41550-026-03024-z",
+  "score": 4.0,
+  "summary": "本研究发现了暗淡Iax型超新星2024vjm的一个暗弱前身星系统。这为理解这类特殊超新星的爆炸机制提供了关键观测证据。"
+ },
+ {
+  "time": "2026-11-26 22:57",
+  "source": "Nature Human Behaviour",
+  "kind": "论文",
+  "field": "心理与神经",
+  "title": "Exposure matters more than persuasiveness for digital mass persuasion",
+  "link": "https://www.nature.com/articles/s41562-026-02644-9",
+  "score": 4.0,
+  "summary": "研究表明在数字大规模说服中，曝光度比说服力本身更重要。这一发现深化了对数字时代信息传播和公众行为影响机制的理解。"
+ },
+ {
+  "time": "2026-11-26 22:57",
+  "source": "arXiv astro-ph",
+  "kind": "预印本",
+  "field": "天文与航天",
+  "title": "OSIRIS-REx Lessons Learned Report: Insights from the Journey to Bennu and Back",
+  "link": "https://arxiv.org/abs/2611.33214",
+  "score": 4.0,
+  "summary": "本报告总结了OSIRIS-REx小行星采样返回任务的经验教训与深刻见解。它为未来的深空探测和样本返回任务提供了宝贵参考。"
  }
 ]
