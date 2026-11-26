@@ -2848,5 +2848,15 @@
   "link": "https://arxiv.org/abs/2611.33214",
   "score": 4.0,
   "summary": "本报告总结了OSIRIS-REx小行星采样返回任务的经验教训与深刻见解。它为未来的深空探测和样本返回任务提供了宝贵参考。"
+ },
+ {
+  "time": "2026-11-27 07:40",
+  "source": "Nature",
+  "kind": "新闻",
+  "field": "技术与工程",
+  "title": "Has AI just cracked Internet encryption? Rumoured ‘bombshell’ stuns scientists",
+  "link": "https://www.nature.com/articles/d41586-026-03875-6",
+  "score": 4.0,
+  "summary": "有传言称人工智能可能已经破解了互联网加密算法，这一消息在科学界引发了震惊与广泛关注。该事件如果属实，将对全球网络安全和密码学体系产生颠覆性影响。"
  }
 ]
